@@ -1,99 +1,665 @@
 ,address,city,zip,beds,baths,sqft,listPrice,taxes,hoaFees,hoaFreq,lat,lng,district,elementarySchool,middleSchool,highSchool
-0,433 S Washington Street,Denver,80209,2.0,1.0,"1,008",750000,"$3,487",$0,N/A,39.70868678,-104.97943371,Denver 1,Lincoln,Grant,South
-1,3651 Vivian Court,Wheat Ridge,80033,5.0,3.0,"3,805",750000,"$4,114",$0,N/A,39.76669756,-105.13705782,Jefferson County R-1,Kullerstrand,Everitt,Wheat Ridge
-2,4631 W Oxford Avenue,Denver,80236,4.0,4.0,"3,110",750000,"$2,390",$35,Annually,39.64331415,-105.04708083,Denver 1,Kaiser,Henry,John F. Kennedy
-3,19095 Robins Drive,Denver,80249,7.0,4.0,"5,193",750000,"$5,182",$0,N/A,39.79718105,-104.76448701,Denver 1,Waller,McGlone,Noel Community Arts School
-4,1730 Zinnia Street,Golden,80401,3.0,3.0,"2,880",750000,"$3,880",$0,N/A,39.74414208,-105.14469017,Jefferson County R-1,Stober,Everitt,Wheat Ridge
-5,1290 W Center Avenue,Denver,80223,5.0,4.0,"2,490",750000,"$2,756",$0,N/A,39.70555401,-105.00364332,Denver 1,Goldrick,Grant,Abraham Lincoln
-6,6430 W 62nd Place,Arvada,80003,4.0,2.0,"2,094",749999,"$2,530",$0,N/A,39.80969338,-105.06797401,Jefferson County R-1,Secrest,North Arvada,Arvada
-7,3228 Julian Street,Denver,80211,3.0,2.0,"1,515",749950,"$2,947",$0,N/A,39.76272011,-105.03205828,Denver 1,Edison,Strive Sunnyside,North
-8,4621 W 36th Avenue,Denver,80212,3.0,3.0,"1,888",749000,"$3,192",$115,Monthly,39.76683646,-105.04719858,Denver 1,Edison,Skinner,North
-9,1025 S Krameria Street,Denver,80224,3.0,2.0,"1,631",748500,"$2,717",$0,N/A,39.69788514,-104.91672862,Denver 1,McMeen,Hill,George Washington
-10,5625 Zuni Court,Denver,80221,4.0,3.0,"2,263",743850,$0,$81,Monthly,39.7992181,-105.0167316,Westminster Public Schools,Hodgkins,Scott Carpenter,Westminster
-11,5662 Zuni Court,Denver,80221,4.0,3.0,"2,263",740850,$0,$81,Monthly,39.79964588,-105.01615102,Westminster Public Schools,Hodgkins,Scott Carpenter,Westminster
-12,1120 S Harrison Street,Denver,80210,3.0,2.0,"1,256",739000,"$2,465",$0,N/A,39.69614,-104.941544,Denver 1,Cory,Merrill,South
-13,3319 Julian Street,Denver,80211,2.0,2.0,"1,298",734900,"$3,048",$0,N/A,39.76497074,-105.03248599,Denver 1,Edison,Skinner,North
-14,2501 S Lincoln Street,Denver,80210,3.0,3.0,"1,902",725000,"$3,053",$0,N/A,39.67113048,-104.98667505,Denver 1,Asbury,Grant,South
-15,5215 Tabor Street,Arvada,80002,4.0,4.0,"3,276",725000,"$2,996",$170,Quarterly,39.79118142,-105.13091346,Jefferson County R-1,Vanderhoof,Drake,Arvada West
-16,1218 S University Boulevard,Denver,80210,4.0,2.0,"1,885",725000,"$2,674",$0,N/A,39.69435769,-104.95894315,Denver 1,Cory,Merrill,South
-17,1430 Vrain Street,Denver,80204,3.0,3.0,"1,440",725000,"$1,906",$0,N/A,39.73906503,-105.0459393,Denver 1,Colfax,Strive Lake,North
-18,6599 Poppy Street,Arvada,80007,5.0,4.0,"3,569",724950,"$3,694",$55,Monthly,39.81610468,-105.18290108,Jefferson County R-1,West Woods,Drake,Ralston Valley
-19,9923 E Exposition Avenue,Denver,80247,5.0,4.0,"3,361",724900,"$1,657",$0,N/A,39.70361298,-104.87334969,Denver 1,Place,Place,George Washington
-20,3347 Federal Boulevard,Denver,80211,4.0,3.0,"3,008",724900,"$3,022",$0,N/A,39.764265,-105.025586,Denver 1,Edison,Strive Federal,North
-21,3347 Federal Boulevard,Denver,80211,4.0,3.0,"3,008",724900,"$3,022",$0,N/A,39.76424135,-105.02549444,Denver 1,Edison,Strive Sunnyside,North
-22,3356 W 31st Avenue,Denver,80211,2.0,1.0,"1,163",720000,"$3,001",$0,N/A,39.76096616,-105.03129918,Denver 1,Edison,Skinner,North
-23,9180 W 74th Avenue,Arvada,80005,4.0,3.0,"1,957",719900,"$2,902",$0,N/A,39.8305385,-105.09997756,Jefferson County R-1,Warder,Moore,Pomona
-24,9602 W Long Avenue,Littleton,80123,4.0,4.0,"3,000",719000,"$3,328",$795,Annually,39.61121172,-105.10559182,Jefferson County R-1,Governor's Ranch,Ken Caryl,Columbine
-25,1414 S Zang Street,Lakewood,80228,6.0,3.0,"2,719",715000,"$2,608",$0,N/A,39.6909154,-105.14474024,Jefferson County R-1,Devinny,Dunstan,Green Mountain
-26,4956 W 38th Avenue,Denver,80212,2.0,2.0,"1,600",715000,"$2,400",$0,N/A,39.76906891,-105.05040267,Denver 1,Edison,Strive Sunnyside,North
-27,3015 Monroe Street,Denver,80205,3.0,4.0,"2,498",715000,"$2,852",$0,N/A,39.75960445,-104.94528818,Denver 1,Columbine,DSST: Conservatory Green,East
-28,5385 S Flanders Way,Centennial,80015,7.0,3.0,"4,348",713000,"$2,639",$249,Semi-Annually,39.61973029,-104.761036,Cherry Creek 5,Peakview,Thunder Ridge,Eaglecrest
-29,7685 Jellison Circle,Arvada,80005,4.0,3.0,"2,323",710000,"$3,412",$0,N/A,39.83654426,-105.108171,Jefferson County R-1,Warder,Moore,Pomona
-30,9271 E 5th Avenue,Denver,80230,4.0,4.0,"2,725",710000,"$3,021",$115,Monthly,39.72292535,-104.87896042,Denver 1,Lowry,Hill,George Washington
-31,6280 E Florida Avenue,Denver,80224,5.0,2.0,"2,912",705000,"$2,241",$0,N/A,39.68918516,-104.91533386,Denver 1,McMeen,Hill,Thomas Jefferson
-32,2167 Zinnia Street,Golden,80401,4.0,3.0,"2,394",700000,"$2,318",$0,N/A,39.74928712,-105.14563481,Jefferson County R-1,Stober,Everitt,Wheat Ridge
-33,3601 N Downing Street,Denver,80205,1.0,1.0,790,700000,"$2,032",$0,N/A,39.76724074,-104.97371084,Denver 1,Gilpin,Whittier  E-8,Manual
-34,6511 W Ohio Avenue,Lakewood,80226,3.0,1.0,"1,625",699999,"$2,961",$0,N/A,39.7026505,-105.07013977,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
-36,2301 Forest Street,Denver,80207,4.0,2.0,"1,687",699900,"$3,151",$0,N/A,39.75125369,-104.92725928,Denver 1,Park Hill,Smiley,East
-37,2675 Lowell Boulevard,Denver,80211,3.0,1.0,"1,474",699900,"$1,838",$0,N/A,39.75625456,-105.03481323,Denver 1,Brown,Denver Montessori,North
-38,5851 S Logan Court,Centennial,80121,4.0,3.0,"2,754",699000,"$4,296",$0,N/A,39.61079431,-104.98290303,Littleton 6,Highland,Euclid,Littleton
-39,11563 W 28th Avenue,Lakewood,80215,4.0,3.0,"2,514",699000,"$3,303",$0,N/A,39.75838346,-105.1274722,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
-40,1875 Depew Street,Lakewood,80214,2.0,2.0,"1,076",699000,"$2,195",$0,N/A,39.74609081,-105.05821555,Jefferson County R-1,Edgewater,Jefferson,Jefferson
-41,3625 Alcott Street,Denver,80211,2.0,2.0,"1,450",699000,"$3,532",$0,N/A,39.76735128,-105.0177077,Denver 1,Columbian,Strive Sunnyside,North
-42,4775 S Washington Street,Englewood,80113,4.0,2.0,"2,702",699000,"$1,843",$0,N/A,39.63003734,-104.98002557,Englewood 1,Cherrelyn,Englewood,Englewood
-43,3171 W 38th Avenue,Denver,80211,3.0,2.0,"1,113",699000,"$2,207",$0,N/A,39.76960947,-105.02932178,Denver 1,Columbian,Bryant-Webster,North
-44,1201 S Sherman Street,Denver,80210,4.0,2.0,"1,728",698000,"$2,971",$0,N/A,39.69473603,-104.9853339,Denver 1,McKinley-Thatcher,Grant,South
-45,6795 W 3rd Avenue,Lakewood,80226,4.0,3.0,"2,447",698000,"$2,566",$100,Annually,39.7218269,-105.07171836,Jefferson County R-1,Stein,Alameda Int'l,Alameda Int'l
-46,945 Harrison Street,Denver,80206,3.0,2.0,"1,632",695000,"$2,765",$0,N/A,39.73138175,-104.94214,Denver 1,Teller,Morey,East
-47,4337 Winona Court,Denver,80212,2.0,1.0,796,695000,"$1,740",$0,N/A,39.77530078,-105.04771108,Denver 1,Centennial,Strive Sunnyside,North
-48,3730 S Hillcrest Drive,Denver,80237,6.0,4.0,"3,559",695000,"$2,515",$0,N/A,39.64758867,-104.91603646,Denver 1,Southmoor,Hamilton,Thomas Jefferson
-49,5060 Logan Street,Denver,80216,1.0,3.0,"2,100",695000,"$5,976",$0,N/A,39.78847865,-104.98277768,Denver 1,Garden Place,McAuliffe International,Manual
-50,3439 W 44th Avenue,Denver,80211,3.0,3.0,"1,459",689000,"$2,614",$0,N/A,39.77691415,-105.03260808,Denver 1,Centennial,Bryant-Webster,North
-51,2030 Oneida Street,Denver,80207,4.0,3.0,"3,262",685000,"$2,734",$0,N/A,39.74804558,-104.907785,Denver 1,Bill Roberts E-8,Bill Roberts E-8,Northfield
-52,1664 S Adams Street,Denver,80210,3.0,2.0,"1,582",675000,"$2,667",$0,N/A,39.6862677,-104.9485455,Denver 1,Cory,Merrill,South
-53,6060 Flower Street,Arvada,80004,5.0,3.0,"2,438",675000,"$2,497",$0,N/A,39.80645975,-105.09822689,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
-54,5331 W 73rd Avenue,Arvada,80003,4.0,5.0,"3,128",675000,"$3,178",$160,Monthly,39.82941854,-105.05500099,Jefferson County R-1,Thomson,North Arvada,Arvada
-55,6030 W Evans Place,Lakewood,80227,4.0,3.0,"2,416",675000,"$3,237",$150,Annually,39.67814976,-105.06371224,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
-56,7990 Lee Street,Arvada,80005,4.0,3.0,"1,887",675000,"$2,848",$0,N/A,39.84170841,-105.11191555,Jefferson County R-1,Sierra,Oberon,Ralston Valley
-57,943 Lipan Street,Denver,80204,3.0,3.0,"1,896",675000,"$2,270",$0,N/A,39.73133989,-105.00188364,Denver 1,Greenlee,West Leadership,West
-58,1180 S Harrison Street,Denver,80210,4.0,3.0,"2,700",675000,"$2,994",$0,N/A,39.69504694,-104.94163594,Denver 1,Cory,Merrill,South
-59,4811 Osceola Street,Denver,80212,4.0,3.0,"1,460",667797,"$1,991",$0,N/A,39.784034,-105.03842,Denver 1,Bryant-Webster,Strive Sunnyside,North
-60,20948 E 60th Place,Aurora,80019,3.0,3.0,"2,548",666453,$1,$79,Monthly,39.805266,-104.756042,Adams 12 5 Star Schl,Other,Other,Other
-61,20948 E 60th Place,Aurora,80019,3.0,3.0,"2,548",666453,$483,$79,Monthly,39.80611836,-104.74318754,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
-62,20968 E 60th Place,Aurora,80019,4.0,3.0,"3,380",665985,$483,$79,Monthly,39.80611836,-104.74318754,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
-63,21622 E 60th Avenue,Aurora,80019,4.0,3.0,"1,156",664541,$1,$79,Monthly,39.813031,-104.735112,Adams-Arapahoe 28J,Other,Other,Vista Peak
-64,4724 S Willow Street,Denver,80237,4.0,3.0,"2,098",660000,"$2,505",$20,Annually,39.63058124,-104.88783186,Denver 1,Samuels,Hamilton,Thomas Jefferson
-65,1100 Grape Street,Denver,80220,2.0,2.0,"1,727",650000,"$2,638",$0,N/A,39.73308405,-104.92435524,Denver 1,Palmer,Hill,George Washington
-66,18620 E Ida Avenue,Aurora,80015,5.0,4.0,"3,236",650000,"$3,481",$65,Monthly,39.61137276,-104.77244653,Cherry Creek 5,Rolling Hills,Falcon Creek,Grandview
-67,3065 Quail Street,Lakewood,80215,4.0,2.0,"1,998",650000,"$2,886",$0,N/A,39.76069865,-105.12398333,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
-68,6847 Decatur Street,Denver,80221,4.0,4.0,"2,929",650000,"$6,898",$55,Monthly,39.82181033,-105.02295407,Westminster Public Schools,Skyline Vista,Scott Carpenter,Westminster
-69,4060 S Tamarac Drive,Denver,80237,4.0,3.0,"2,709",650000,"$2,205",$0,N/A,39.64183916,-104.89306912,Denver 1,Samuels,Hamilton,Thomas Jefferson
-70,2793 S Riverview Drive,Idledale,80453,4.0,3.0,"3,364",650000,"$6,449",$0,N/A,39.66688311,-105.2458051,Jefferson County R-1,Red Rocks,Carmody,Bear Creek
-71,3296 S Geneva Street,Denver,80231,4.0,3.0,"2,678",650000,"$1,514",$0,N/A,39.65960831,-104.86927866,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
-72,4120 Monroe Street,Denver,80216,3.0,2.0,"1,459",650000,"$1,678",$0,N/A,39.77428259,-104.944914,Denver 1,Harrington,McAuliffe International,Manual
-73,2196 Kendall Street,Edgewater,80214,4.0,2.0,"1,650",650000,"$2,638",$0,N/A,39.74926489,-105.06591454,Jefferson County R-1,Edgewater,Jefferson,Jefferson
-74,2226 Clarkson Street,Denver,80205,3.0,2.0,"1,440",650000,"$2,633",$0,N/A,39.75003561,-104.97672089,Denver 1,Wyatt,Wyatt,East
-75,4072 S Uinta Street,Denver,80237,4.0,3.0,"2,343",650000,"$2,670",$0,N/A,39.64142186,-104.89189673,Denver 1,Samuels,Hamilton,Thomas Jefferson
-76,3637 E Mississippi Avenue,Denver,80210,3.0,2.0,"1,411",650000,"$2,589",$0,N/A,39.69668777,-104.94439742,Denver 1,Cory,Merrill,South
-78,3922 Alcott Street,Denver,80211,2.0,2.0,"1,177",649900,"$2,719",$0,N/A,39.77102122,-105.01728765,Denver 1,Columbian,Strive Sunnyside,North
-79,103 Bear Creek Lane,Morrison,80465,2.0,2.0,"1,457",649900,"$2,716",$0,N/A,39.65421,-105.1955,Jefferson County R-1,Red Rocks,Carmody,Bear Creek
-80,103 Bear Creek Lane,Morrison,80465,3.0,2.0,"1,457",649900,"$2,716",$0,N/A,39.65422013,-105.195471,Jefferson County R-1,Red Rocks,Carmody,Bear Creek
-81,6047 N Netherland Court,Aurora,80019,3.0,3.0,"2,548",649295,$1,$79,Monthly,39.80959,-104.734504,Adams 12 5 Star Schl,Other,Other,Other
-82,6047 N Netherland Court,Aurora,80019,3.0,3.0,"2,548",649295,$483,$79,Monthly,39.80567862,-104.73445401,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
-83,5295 Lisbon Street,Denver,80249,4.0,3.0,"4,129",645000,"$4,388",$0,N/A,39.79197818,-104.74559396,Denver 1,Waller,Dr. Martin Luther King,High Tech EC
-84,10945 W 45th Avenue,Wheat Ridge,80033,4.0,2.0,"2,240",645000,"$2,809",$0,N/A,39.77966635,-105.12040454,Jefferson County R-1,Kullerstrand,Everitt,Wheat Ridge
-85,2391 N Dexter Street,Denver,80207,2.0,1.0,"1,574",645000,"$2,614",$0,N/A,39.75268508,-104.9331258,Denver 1,Stedman,McAuliffe International,East
-86,3092 S Rosemary Street,Denver,80231,3.0,3.0,"2,032",639000,"$2,398",$0,N/A,39.6609464,-104.89829585,Denver 1,Samuels,Hamilton,Thomas Jefferson
-87,5032 N Quemoy Court,Aurora,80019,3.0,3.0,"2,352",632958,"$9,115",$195,Monthly,39.78664166,-104.7300523,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
-88,3855 S Valentia Court,Denver,80237,6.0,3.0,"2,713",630000,"$2,202",$0,N/A,39.64742648,-104.89164179,Denver 1,Holm,Hamilton,Thomas Jefferson
-89,720 Leyden Street,Denver,80220,3.0,1.0,"1,381",629000,"$2,667",$0,N/A,39.72736483,-104.91477301,Denver 1,Carson,Hill,George Washington
-90,21721 E 50th Drive,Aurora,80019,3.0,3.0,"2,542",628566,"$8,716",$185,Monthly,39.78590007,-104.73389429,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
-91,7127 Cole Court,Arvada,80004,5.0,4.0,"1,914",625000,"$3,387",$0,N/A,39.82619233,-105.15193283,Jefferson County R-1,Van Arsdale,Oberon,Ralston Valley
-92,3040 Jasmine Street,Denver,80207,3.0,2.0,"1,684",625000,"$2,394",$0,N/A,39.76090169,-104.91844296,Denver 1,Stedman,McAuliffe International,East
-93,2375 S Lansing Street,Aurora,80014,4.0,4.0,"2,509",620000,"$1,491",$35,Annually,39.67332638,-104.85797391,Cherry Creek 5,Eastridge,Prairie,Overland
-94,6162 Estes Street,Arvada,80004,4.0,2.0,"1,820",615000,"$3,005",$0,N/A,39.80892327,-105.095245,Jefferson County R-1,Fitzmorris,Woodrow Wilson Charter Academy,Arvada
-95,5400 E Jewell Avenue,Denver,80222,5.0,2.0,"2,238",615000,"$2,097",$0,N/A,39.68185117,-104.92480095,Denver 1,Ellis,Merrill,Thomas Jefferson
-96,1408 S Yank Street,Lakewood,80228,5.0,4.0,"2,902",610000,"$2,751",$0,N/A,39.69172389,-105.14484938,Jefferson County R-1,Devinny,Dunstan,Green Mountain
-97,2580 Saulsbury Street,Lakewood,80214,4.0,3.0,"1,822",610000,"$3,345",$0,N/A,39.75423611,-105.07545992,Jefferson County R-1,Lumberg,Jefferson,Jefferson
-98,6740 W 80th Circle,Arvada,80003,4.0,3.0,"2,373",610000,"$2,398",$0,N/A,39.84211226,-105.074268,Jefferson County R-1,Little,Moore,Pomona
-99,6034 N Malta Street,Aurora,80019,3.0,3.0,"2,499",609000,$483,$79,Monthly,39.80633097,-104.74135013,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+0,19632 W 59th Avenue,Golden,80403,4.0,3.0,"2,216",750000,"$6,807",$480,Annually,39.80406705,-105.22206082,Jefferson County R-1,Mitchell,Bell,Golden
+1,2655 Locust Street,Denver,80207,5.0,3.0,"2,915",750000,"$2,846",$0,N/A,39.7556959,-104.91439622,Denver 1,Stedman,McAuliffe International,East
+2,3453 Wabash Street,Denver,80238,3.0,4.0,"2,134",750000,"$4,916",$43,Monthly,39.76449901,-104.88952349,Denver 1,Westerly Creek,McAuliffe International,Northfield
+3,1550 E Dartmouth Avenue,Englewood,80113,5.0,2.0,"2,727",750000,"$2,755",$0,N/A,39.6602763,-104.96920823,Englewood 1,Charles Hay,Englewood,Englewood
+4,1270 Pontiac Street,Denver,80220,4.0,2.0,"1,835",750000,"$2,937",$0,N/A,39.73688137,-104.90548419,Denver 1,Montclair,Hill,George Washington
+5,6644 Everett Street,Arvada,80004,3.0,3.0,"2,146",750000,"$2,163",$0,N/A,39.81822432,-105.09616809,Jefferson County R-1,Peck,North Arvada,Arvada
+6,2115 Teller Street,Lakewood,80214,5.0,3.0,"3,074",750000,"$3,491",$0,N/A,39.74958613,-105.07704445,Jefferson County R-1,Lumberg,Jefferson,Jefferson
+7,6900 W Grant Ranch Boulevard Unit 8,Denver,80123,3.0,3.0,"2,215",750000,"$4,374",$65,Monthly,39.61707474,-105.07372342,Denver 1,Grant Ranch E-8,Grant Ranch E-8,John F. Kennedy
+8,6590 Saulsbury Court,Arvada,80003,6.0,4.0,"3,532",750000,"$2,949",$0,N/A,39.81624579,-105.07627848,Jefferson County R-1,Secrest,North Arvada,Arvada
+9,3112 S Monaco Circle,Denver,80222,4.0,3.0,"3,099",750000,"$3,754",$0,N/A,39.65975741,-104.91389187,Cherry Creek 5,Holly Hills,West,Cherry Creek
+10,4112 S Vrain Street,Denver,80236,4.0,4.0,"3,180",750000,"$2,430",$30,Annually,39.64292041,-105.04608781,Denver 1,Kaiser,Henry,John F. Kennedy
+11,1193 S Clarkson Street,Denver,80210,4.0,2.0,"2,177",750000,"$3,038",$0,N/A,39.6949327,-104.97828738,Denver 1,Lincoln,Grant,South
+12,5891 Wood Sorrel Drive,Littleton,80123,3.0,3.0,"2,853",750000,"$4,150","$1,600",Annually,39.60998664,-105.04381642,Littleton 6,Wilder,Goddard,Littleton
+13,1150 S Jackson Street,Denver,80210,5.0,2.0,"1,798",750000,"$2,732",$0,N/A,39.69557343,-104.94272938,Denver 1,Cory,Merrill,South
+14,4835 W 29th Avenue,Denver,80212,3.0,2.0,"1,755",750000,"$2,561",$0,N/A,39.75873771,-105.04959359,Denver 1,Edison,Bryant-Webster,North
+15,2545 Teller Court,Lakewood,80214,3.0,3.0,"3,300",750000,"$2,785",$0,N/A,39.753739,-105.07769,Jefferson County R-1,Lumberg,Jefferson,Jefferson
+16,19095 Robins Drive,Denver,80249,7.0,4.0,"5,193",750000,"$5,182",$0,N/A,39.79718105,-104.76448701,Denver 1,Waller,McGlone,Noel Community Arts School
+17,946 S Leyden Street,Denver,80224,5.0,5.0,"3,300",749900,"$2,169",$0,N/A,39.6990395,-104.91484501,Denver 1,McMeen,Hill,George Washington
+18,4250 Wyandot Street,Denver,80211,3.0,2.0,"1,748",749900,"$2,616",$0,N/A,39.77511384,-105.01446274,Denver 1,Trevista at Horace Mann,Strive Sunnyside,North
+19,9840 W 36th Avenue,Wheat Ridge,80033,5.0,3.0,"2,072",749900,"$2,203",$0,N/A,39.76641458,-105.10775268,Jefferson County R-1,Wilmore-Davis,Everitt,Wheat Ridge
+20,3615 Osceola Street,Denver,80212,2.0,1.0,"1,922",749900,"$2,544",$0,N/A,39.76704551,-105.0384131,Denver 1,Edison,Strive Sunnyside,North
+21,3084 S Federal Boulevard,Denver,80236,2.0,1.0,905,749900,"$1,717",$0,N/A,39.66101187,-105.02465761,Denver 1,College View,Henry,Abraham Lincoln
+22,1227 Ash Street,Denver,80220,3.0,3.0,"1,767",749500,"$2,253",$0,N/A,39.73526897,-104.93857153,Denver 1,Palmer,Hill,East
+23,11032 W Crestline Drive,Littleton,80127,4.0,3.0,"2,463",749000,"$2,311",$116,Quarterly,39.61860683,-105.12137851,Jefferson County R-1,Westridge,Summit Ridge,Dakota Ridge
+24,6970 Iris Court,Arvada,80004,4.0,4.0,"3,401",749000,"$3,744",$60,Monthly,39.82312727,-105.10750374,Jefferson County R-1,Warder,Moore,Pomona
+25,"8140 Brighton Road Unit 1,#2,#3",Commerce City,80022,2.0,2.0,"1,240",749000,"$1,927",$0,N/A,39.84451374,-104.92042356,Adams 14,Dupont,Adams City,Adams City
+26,1351 Jackson Street Unit 1353,Denver,80206,3.0,2.0,"1,873",747000,"$2,900",$0,N/A,39.73766039,-104.94314305,Denver 1,Teller,Morey,East
+27,12607 W 38th Drive,Wheat Ridge,80033,4.0,2.0,"3,061",745000,"$2,556",$0,N/A,39.7684256,-105.14070431,Jefferson County R-1,Kullerstrand,Everitt,Wheat Ridge
+28,1305 E Iowa Avenue,Denver,80210,3.0,3.0,"1,615",745000,"$2,749",$0,N/A,39.687801,-104.97191125,Denver 1,Asbury,Grant,South
+29,8285 E Lehigh Avenue,Denver,80237,4.0,3.0,"2,600",745000,"$2,623",$0,N/A,39.64729324,-104.89202,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+30,1340 S Washington Street,Denver,80210,3.0,3.0,"2,538",745000,"$3,241",$0,N/A,39.69210836,-104.9788276,Denver 1,Whittier  E-8,Grant,South
+31,1995 W 67th Place,Denver,80221,3.0,3.0,"2,331",740300,"$6,229",$72,Monthly,39.81911,-105.01126,Mapleton R-1,Other,Other,SkyView Academy
+32,3050 S Roslyn Street,Denver,80231,4.0,3.0,"3,525",740000,"$1,493",$0,N/A,39.66192331,-104.90042725,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+33,968 N Corona Street,Denver,80218,4.0,2.0,"1,850",739000,"$1,104",$0,N/A,39.731553,-104.9737607,Denver 1,Dora Moore,Morey,East
+34,3267 S Holly Street,Denver,80222,4.0,3.0,"2,112",735000,"$1,892",$0,N/A,39.65713016,-104.92336236,Denver 1,Bradley,Hamilton,Thomas Jefferson
+35,717 E 23rd Avenue,Denver,80205,4.0,2.0,"2,049",735000,"$2,660",$0,N/A,39.75089533,-104.97764481,Denver 1,Whittier  E-8,Whittier  E-8,Manual
+36,3900 Vallejo Street,Denver,80211,2.0,2.0,"2,088",735000,"$2,833",$0,N/A,39.77066732,-105.0133029,Denver 1,Bryant-Webster,Skinner,North
+37,3560 Chase Street,Wheat Ridge,80212,3.0,2.0,"1,578",730000,"$3,439",$0,N/A,39.76734144,-105.05701037,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+38,1525 Holly Street,Denver,80220,3.0,2.0,"1,921",730000,"$2,633",$0,N/A,39.74073427,-104.922587,Denver 1,Park Hill,McAuliffe International,East
+39,105 S Newland Street,Lakewood,80226,3.0,2.0,624,729900,"$2,660",$0,N/A,39.71457462,-105.06996104,Jefferson County R-1,Stein,Alameda Int'l,Alameda Int'l
+40,3547 S Ivanhoe Street,Denver,80237,5.0,4.0,"3,269",729819,"$2,919",$0,N/A,39.65166941,-104.92211894,Denver 1,Southmoor,Hamilton,Thomas Jefferson
+41,125 E Florida Avenue,Denver,80210,3.0,2.0,"1,342",729000,"$1,971",$0,N/A,39.68954813,-104.98563837,Denver 1,McKinley-Thatcher,Grant,South
+42,3320 Nelson Street,Wheat Ridge,80033,3.0,3.0,"2,121",729000,"$2,344",$0,N/A,39.76368123,-105.11756206,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+43,141 W 1st Avenue,Denver,80223,3.0,2.0,"1,928",725000,"$3,183",$0,N/A,39.71863368,-104.99030033,Denver 1,Valverde,Kepner,West
+44,10400 W 33rd Place,Wheat Ridge,80033,3.0,3.0,"2,037",725000,"$2,321",$0,N/A,39.76281024,-105.11493779,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+45,310 Elati Street,Denver,80223,2.0,2.0,"1,476",725000,"$2,957",$0,N/A,39.7212025,-104.99372814,Denver 1,Valverde,West Leadership,West
+46,244 W Irvington Place,Denver,80223,4.0,3.0,"1,658",725000,"$2,809",$0,N/A,39.71731001,-104.99180075,Denver 1,Valverde,Kepner,West
+47,4874 S Routt Street,Littleton,80127,4.0,4.0,"3,314",724900,"$3,555",$0,N/A,39.62825457,-105.12778283,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+48,4378 S Malaya Way,Aurora,80013,4.0,4.0,"3,192",722329,$0,$80,Monthly,39.6366318,-104.74256116,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+49,920 S Emporia Street,Denver,80247,4.0,4.0,"3,186",720000,"$3,317",$0,N/A,39.69945853,-104.87400415,Denver 1,Denver Green,Denver Green,George Washington
+50,995 S Braun Drive,Lakewood,80228,4.0,3.0,"1,937",719900,"$1,798",$0,N/A,39.69806541,-105.15096275,Jefferson County R-1,Foothills,Dunstan,Green Mountain
+51,1823 S Downing Street,Denver,80210,4.0,2.0,"1,650",719900,"$2,841",$0,N/A,39.68343167,-104.97380655,Denver 1,Asbury,Merrill,South
+52,17004 E Dorado Drive,Centennial,80015,5.0,4.0,"3,292",719900,"$3,921",$113,Monthly,39.6135,-104.79002,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+53,1150 S Forest Street,Denver,80246,4.0,2.0,"1,588",719000,"$1,866",$0,N/A,39.69535085,-104.92550533,Denver 1,Ellis,Merrill,Thomas Jefferson
+54,4430 S Perth Court,Aurora,80015,5.0,3.0,"2,681",718064,$0,$357,Semi-Annually,39.63546476,-104.73577996,Cherry Creek 5,Aspen Crossing,Sky Vista,Eaglecrest
+55,4367 S Malaya Way,Aurora,80013,4.0,4.0,"3,181",716671,$0,$80,Monthly,39.63691031,-104.74308793,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+56,22120 E Tufts Circle,Aurora,80015,3.0,3.0,"2,498",716082,$0,$63,Monthly,39.63233445,-104.73097746,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+57,3121 Fulton Street,Denver,80238,3.0,3.0,"1,726",715000,"$5,186",$43,Monthly,39.76146172,-104.87073143,Denver 1,Westerly Creek,DSST: Conservatory Green,Northfield
+58,7220 E 12th Avenue,Denver,80220,4.0,3.0,"2,037",715000,"$2,830",$0,N/A,39.73541315,-104.90388336,Denver 1,Montclair,Hill,George Washington
+59,6511 W Ohio Avenue,Lakewood,80226,4.0,1.0,"1,625",715000,"$2,961",$0,N/A,39.7024039,-105.06947342,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+60,1331 Bellaire Street,Denver,80220,4.0,2.0,"1,753",715000,"$3,232",$0,N/A,39.73710114,-104.93757049,Denver 1,Palmer,Hill,East
+61,5838 S Espana Street,Aurora,80015,3.0,3.0,"2,621",714900,"$3,495",$27,Monthly,39.60994,-104.76017,Cherry Creek 5,Rolling Hills,Falcon Creek,Grandview
+62,17758 E Dorado Drive,Centennial,80015,5.0,4.0,"3,222",710000,"$2,672",$65,Monthly,39.61202726,-104.78356995,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+63,21886 E 45th Avenue,Aurora,80019,5.0,4.0,"4,176",709990,"$2,052",$0,N/A,39.77786495,-104.73246604,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+64,4744 Raleigh Street,Denver,80212,3.0,3.0,"1,541",700000,"$1,854",$0,N/A,39.78290604,-105.04131706,Denver 1,Centennial,Skinner,North
+65,660 S Monaco Parkway,Denver,80224,7.0,3.0,"3,106",700000,"$2,562",$0,N/A,39.70461975,-104.91244246,Denver 1,Denver Green,Denver Green,George Washington
+66,8665 W 67th Place,Arvada,80004,5.0,3.0,"3,355",700000,"$2,062",$0,N/A,39.8192257,-105.09363528,Jefferson County R-1,Peck,Arvada K-8,Arvada
+67,11 S Logan Street,Denver,80209,3.0,2.0,"1,284",700000,"$2,686",$0,N/A,39.71621812,-104.98287899,Denver 1,Dora Moore,Grant,South
+68,3325 W 32nd Avenue,Denver,80211,2.0,2.0,"1,060",700000,"$2,681",$0,N/A,39.76224347,-105.03070606,Denver 1,Edison,Denver Montessori,North
+69,2202 Braun Court,Golden,80401,5.0,3.0,"2,394",700000,"$3,024",$0,N/A,39.7517994,-105.14989032,Jefferson County R-1,Maple Grove,Everitt,Golden
+70,642 Deframe,Golden,80401,4.0,3.0,"2,544",700000,"$1,976",$0,N/A,39.72706669,-105.15451698,Jefferson County R-1,Welchester,Bell,Golden
+71,2640 N Monroe Street,Denver,80205,4.0,2.0,"1,996",699900,"$2,844",$0,N/A,39.75524702,-104.94500973,Denver 1,Columbine,Bruce Randolph,East
+72,7265 W 33rd Avenue,Wheat Ridge,80033,4.0,2.0,"1,800",699900,"$1,598",$0,N/A,39.76369734,-105.07780248,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+73,8113 Ammons Way,Arvada,80005,4.0,4.0,"3,119",699900,"$3,204",$0,N/A,39.84438,-105.08764,Jefferson County R-1,Weber,Moore,Pomona
+74,573 E Amherst Place,Englewood,80113,4.0,3.0,"2,256",699900,"$2,369",$0,N/A,39.66538119,-104.98082927,Englewood 1,Charles Hay,Englewood,Englewood
+75,2625 Oneida Street,Denver,80207,5.0,4.0,"2,645",699900,"$2,532",$0,N/A,39.75541892,-104.90840737,Denver 1,Smith Renaissance,William (Bill) Roberts,Northfield
+76,2505 S Allison Court,Lakewood,80227,5.0,4.0,"3,483",699000,"$3,275",$0,N/A,39.67130589,-105.08734834,Jefferson County R-1,Westgate,Carmody,Bear Creek
+77,2618 S Wadsworth Way,Lakewood,80227,4.0,3.0,"2,750",699000,"$2,647",$0,N/A,39.66834666,-105.08198132,Jefferson County R-1,Westgate,Carmody,Bear Creek
+78,6871 Upham Street,Arvada,80003,6.0,3.0,"2,478",699000,"$2,752",$0,N/A,39.82176233,-105.07878136,Jefferson County R-1,Secrest,North Arvada,Arvada
+79,6447 Independence Court,Arvada,80004,4.0,3.0,"3,080",699000,"$2,747",$0,N/A,39.81483017,-105.10521777,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+80,3586 S Holly Street,Denver,80237,4.0,3.0,"2,522",699000,"$2,373",$0,N/A,39.6507369,-104.92256427,Denver 1,Southmoor,Hamilton,Thomas Jefferson
+81,6240 E Florida Avenue,Denver,80224,4.0,3.0,"2,007",698900,"$1,249",$0,N/A,39.68917813,-104.91571991,Denver 1,McMeen,Hill,Thomas Jefferson
+82,4295 S Braun Court,Morrison,80465,3.0,3.0,"3,033",698900,"$3,226",$120,Annually,39.63746468,-105.15176627,Jefferson County R-1,Kendallvue,Carmody,Bear Creek
+83,2800 S Williams Street,Denver,80210,5.0,2.0,"2,097",698000,"$2,849",$0,N/A,39.665897,-104.96628757,Denver 1,Slavens E-8,Merrill,Thomas Jefferson
+84,21612 E 60th Avenue,Aurora,80019,4.0,4.0,"3,441",697732,"$1,935",$79,Monthly,39.80820885,-104.75806485,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+85,13654 W Auburn Avenue,Lakewood,80228,4.0,3.0,"2,565",695000,"$2,566",$0,N/A,39.67398377,-105.15298205,Jefferson County R-1,Rooney Ranch,Dunstan,Green Mountain
+86,21036 E Radcliff Place,Aurora,80013,4.0,4.0,"2,752",691826,$0,$80,Monthly,39.63635846,-104.74382474,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+87,10850 W 41st Avenue,Wheat Ridge,80033,4.0,2.0,"1,829",690000,"$1,737",$0,N/A,39.77226672,-105.11976495,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+88,1151 Revere Street,Aurora,80011,3.0,2.0,"2,257",690000,"$2,106",$0,N/A,39.73411167,-104.84326917,Adams-Arapahoe 28J,Vaughn,South,Aurora Central
+89,4662 S Quitman Street,Denver,80236,4.0,3.0,"3,437",690000,"$2,135",$0,N/A,39.6323382,-105.04234797,Denver 1,Kaiser,Bear Valley International,John F. Kennedy
+90,2601 S Quebec Street Unit 19,Denver,80231,3.0,4.0,"3,844",690000,"$1,633",$500,Monthly,39.67050666,-104.90603615,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+91,2368 E Floyd Place,Englewood,80113,4.0,4.0,"2,094",690000,"$2,460",$0,N/A,39.65580508,-104.9599885,Cherry Creek 5,Cherry Hills Village,West,Cherry Creek
+92,2822 S Uinta Street,Denver,80231,3.0,3.0,"2,771",689970,"$1,701",$0,N/A,39.66602352,-104.89326005,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+93,1011 S Valentia Street Unit 81,Denver,80247,4.0,4.0,"3,030",689900,"$2,597",$350,Monthly,39.6986819,-104.89419061,Denver 1,Denver Green,Denver Green,George Washington
+94,4902 W Oxford Avenue,Denver,80237,4.0,3.0,"3,264",689000,"$2,114",$30,Annually,39.64301734,-105.05000048,Denver 1,Kaiser,Henry,John F. Kennedy
+95,1573 S Lincoln Street,Denver,80210,3.0,2.0,"1,788",689000,"$2,888",$0,N/A,39.68808679,-104.98651751,Denver 1,McKinley-Thatcher,Grant,South
+96,2698 S Depew Place,Lakewood,80227,5.0,3.0,"3,562",689000,"$3,944",$0,N/A,39.66792598,-105.05761536,Jefferson County R-1,Westgate,Carmody,Bear Creek
+97,1540 S Pierce Street,Lakewood,80232,6.0,5.0,"3,512",689000,"$2,016",$0,N/A,39.6889329,-105.07179296,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
+98,5705 S Andes Street,Aurora,80015,5.0,3.0,"2,832",687000,"$3,368",$64,Monthly,39.61501786,-104.77202067,Cherry Creek 5,Rolling Hills,Falcon Creek,Grandview
+99,185 Allison Street,Lakewood,80226,3.0,2.0,"1,983",687000,"$2,636",$0,N/A,39.71996428,-105.086048,Jefferson County R-1,South Lakewood,Creighton,Lakewood
+100,8095 E Lehigh Avenue,Denver,80237,3.0,3.0,"2,787",685000,"$1,429",$0,N/A,39.6474896,-104.89512801,Denver 1,Samuels,Hamilton,Thomas Jefferson
+101,3363 Vivian Drive,Wheat Ridge,80033,4.0,3.0,"3,032",685000,"$3,233",$0,N/A,39.76375337,-105.13517229,Jefferson County R-1,Kullerstrand,Everitt,Wheat Ridge
+102,21016 E Radcliff Place,Aurora,80013,4.0,4.0,"2,752",678311,$0,$80,Monthly,39.63641967,-104.74410765,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+103,6053 N Nepal Street,Aurora,80019,3.0,3.0,"2,462",675500,$484,$79,Monthly,39.80659042,-104.74083537,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+104,8225 W 66 Avenue,Arvada,80004,3.0,2.0,"2,016",675000,"$2,345",$0,N/A,39.81652904,-105.08887446,Jefferson County R-1,Peck,Arvada K-8,Arvada
+105,4021 King Street,Denver,80211,2.0,1.0,886,675000,"$2,880",$0,N/A,39.77237373,-105.03320022,Denver 1,Centennial,Denver Montessori,North
+106,1180 Roslyn Street,Denver,80220,3.0,3.0,"1,601",675000,"$2,528",$0,N/A,39.73533907,-104.90058866,Denver 1,Montclair,Hill,George Washington
+107,5459 S Rifle Street,Centennial,80015,5.0,3.0,"3,210",675000,"$3,283",$60,Annually,39.61729352,-104.78617382,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+108,4642 Decatur Street,Denver,80211,3.0,2.0,"1,723",675000,"$2,179",$0,N/A,39.78103629,-105.02135385,Denver 1,Bryant-Webster,Skinner,North
+109,3310 Independence Court,Wheat Ridge,80033,3.0,2.0,"2,367",675000,"$2,359",$0,N/A,39.76318339,-105.10529619,Jefferson County R-1,Wilmore-Davis,Everitt,Wheat Ridge
+110,1165 Rosemary Street,Denver,80220,4.0,3.0,"2,527",675000,"$1,811",$0,N/A,39.73482098,-104.90015301,Denver 1,Montclair,Hill,George Washington
+111,21554 E 59th Drive,Aurora,80019,4.0,4.0,"3,269",674632,"$1,935",$79,Monthly,39.80533989,-104.73519973,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+112,5021 N Quemoy Court,Aurora,80019,2.0,2.0,"1,881",674339,"$9,705",$195,Monthly,39.78619549,-104.73035118,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+113,2384 S Hoyt Street,Lakewood,80227,4.0,3.0,"2,670",673000,"$3,157",$0,N/A,39.67324342,-105.10213277,Jefferson County R-1,Green Gables,Carmody,Bear Creek
+114,4960 E Dartmouth Avenue,Denver,80222,3.0,2.0,"2,330",672000,"$2,215",$0,N/A,39.66070433,-104.9297367,Denver 1,Bradley,Hamilton,Thomas Jefferson
+115,21394 E Stanford Avenue,Aurora,80015,4.0,3.0,"2,411",671714,$0,$357,Semi-Annually,39.63567075,-104.73873727,Cherry Creek 5,Aspen Crossing,Sky Vista,Eaglecrest
+116,3965 Miller Street,Wheat Ridge,80033,2.0,2.0,"1,829",670000,"$2,556",$270,Monthly,39.77132982,-105.1142568,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+117,20988 E 60th Place,Aurora,80019,4.0,4.0,"3,269",669068,$484,$79,Monthly,39.80533989,-104.73519973,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+118,2610 S Kipling Court,Lakewood,80227,4.0,3.0,"3,859",667900,"$3,372",$345,Monthly,39.66825,-105.10998,Jefferson County R-1,Bear Creek,Carmody,Bear Creek
+119,5031 Quemoy Court,Aurora,80019,2.0,2.0,"2,542",666296,"$9,502",$195,Monthly,39.786493,-104.730676,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+120,4357 S Malaya Way,Aurora,80013,4.0,4.0,"2,566",665972,$0,$80,Monthly,39.63713859,-104.7430592,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+121,18927 E Crestridge Circle,Aurora,80015,5.0,4.0,"2,767",663300,"$3,002",$65,Monthly,39.61585,-104.76806,Cherry Creek 5,Rolling Hills,Falcon Creek,Grandview
+122,656 Mc Intyre Street,Golden,80401,4.0,3.0,"1,835",660000,"$2,767",$0,N/A,39.72638845,-105.17446712,Jefferson County R-1,Welchester,Bell,Golden
+123,6453 Kendall Street,Arvada,80003,4.0,3.0,"2,386",660000,"$1,741",$0,N/A,39.81465933,-105.0665484,Jefferson County R-1,Swanson,North Arvada,Arvada
+124,21737 E Stanford Drive,Aurora,80015,3.0,2.0,"1,924",659950,$0,$63,Monthly,39.63442123,-104.73449565,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+125,4940 S Elati Street,Englewood,80110,5.0,2.0,"2,268",659900,"$1,407",$0,N/A,39.62687719,-104.9934259,Englewood 1,Clayton,Englewood,Englewood
+126,1775 Quince Street,Denver,80220,3.0,2.0,"1,641",655900,"$2,304",$0,N/A,39.74510572,-104.90254308,Denver 1,Ashley,Hill,George Washington
+127,8196 E Lehigh Avenue,Denver,80237,5.0,3.0,"2,454",655000,,$0,N/A,39.647,-104.89395,Denver 1,Samuels,Hamilton,Thomas Jefferson
+128,5776 W 80th Circle,Arvada,80003,4.0,3.0,"3,128",655000,"$3,105",$55,Monthly,39.84203135,-105.06073381,Jefferson County R-1,Parr,Moore,Pomona
+129,8196 E Lehigh Avenue,Denver,80237,5.0,3.0,"2,454",655000,"$2,253",$0,N/A,39.64703281,-104.8938789,Denver 1,Samuels,Hamilton,Thomas Jefferson
+130,3092 S Kearney Street,Denver,80222,4.0,3.0,"2,774",654000,"$2,355",$0,N/A,39.66073338,-104.917678,Cherry Creek 5,Holly Hills,West,Cherry Creek
+131,7140 N Gladiola,Arvada,80004,4.0,4.0,"2,757",652000,"$3,008",$0,N/A,39.82595745,-105.16273785,Jefferson County R-1,Van Arsdale,Oberon,Ralston Valley
+132,21721 E 50th Drive,Aurora,80019,3.0,3.0,"2,542",650531,"$8,716",$185,Monthly,39.78590007,-104.73389429,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+133,4350 W Bellewood Drive,Denver,80123,3.0,2.0,"2,132",650000,"$2,136",$0,N/A,39.62819542,-105.04300733,Denver 1,Kaiser,DSST: College View,John F. Kennedy
+134,2350 S Dahlia Street,Denver,80222,4.0,2.0,"2,509",650000,"$4,510",$0,N/A,39.67346964,-104.93116267,Denver 1,University Park,Merrill,Thomas Jefferson
+135,21283 E 48th Drive,Denver,80249,4.0,4.0,"3,783",650000,"$3,164",$0,N/A,39.78289833,-104.73954499,Denver 1,Waller,Dr. Martin Luther King,Dr. Martin Luther King
+136,2010 Zephyr Street,Lakewood,80214,7.0,4.0,"3,500",650000,"$2,223",$0,N/A,39.74774948,-105.08477386,Jefferson County R-1,Slater,Creighton,Lakewood
+137,11945 W Brandt Place,Littleton,80127,3.0,4.0,"3,135",650000,"$3,356",$49,Monthly,39.61527026,-105.13274964,Jefferson County R-1,Mount Carbon,Summit Ridge,Dakota Ridge
+138,623 S Ivy Way,Denver,80224,4.0,3.0,"1,898",650000,"$1,537",$0,N/A,39.70440726,-104.92080434,Denver 1,McMeen,Hill,George Washington
+139,12503 W Hawaii Avenue,Lakewood,80228,5.0,3.0,"2,624",650000,"$2,499",$0,N/A,39.68799673,-105.14042542,Jefferson County R-1,Devinny,Dunstan,Green Mountain
+140,1835 S Welch Circle,Lakewood,80228,4.0,2.0,"2,388",650000,"$1,878",$0,N/A,39.68545553,-105.14688818,Jefferson County R-1,Hutchinson,Dunstan,Green Mountain
+141,5250 Highline Place,Denver,80222,3.0,2.0,"1,548",650000,"$2,589",$0,N/A,39.66012603,-104.92639517,Denver 1,Bradley,Hamilton,Thomas Jefferson
+142,1755 S Garfield Street,Denver,80210,3.0,2.0,"1,670",650000,"$2,940",$0,N/A,39.68482345,-104.94447808,Denver 1,Cory,Merrill,South
+143,3336 S Pearl Street,Englewood,80113,3.0,2.0,"1,858",650000,"$2,224",$0,N/A,39.65609193,-104.98021459,Englewood 1,Charles Hay,Englewood,Englewood
+144,3710 Ames Street,Wheat Ridge,80212,3.0,2.0,"2,387",650000,"$2,529",$0,N/A,39.7683002,-105.05408375,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+145,1533 E 29th Avenue,Denver,80205,4.0,1.0,"1,691",650000,"$1,962",$0,N/A,39.75847847,-104.96864027,Denver 1,Whittier  E-8,Whittier  E-8,Manual
+146,4120 Monroe Street,Denver,80216,3.0,2.0,"1,459",650000,"$1,678",$0,N/A,39.77428259,-104.944914,Denver 1,Harrington,McAuliffe International,Manual
+147,4722 S Biscay Court,Aurora,80015,4.0,3.0,"2,528",649900,"$2,260",$52,Monthly,39.63096966,-104.76672446,Cherry Creek 5,Peakview,Thunder Ridge,Eaglecrest
+148,5309 Liverpool Street,Denver,80249,6.0,4.0,"4,067",649900,"$4,203",$0,N/A,39.79233,-104.74468,Denver 1,Other,Other,Dr. Martin Luther King
+149,5515 W 73rd Avenue,Westminster,80003,4.0,4.0,"2,708",649900,"$2,833",$100,Monthly,39.82930553,-105.05682746,Jefferson County R-1,Thomson,North Arvada,Arvada
+150,4445 S Delaware Street,Englewood,80110,5.0,2.0,"1,965",649900,"$1,198",$0,N/A,39.63572848,-104.99281205,Englewood 1,Clayton,Englewood,Englewood
+151,559 S Dudley Street,Lakewood,80226,5.0,4.0,"2,900",649900,"$2,770",$0,N/A,39.7058159,-105.09644448,Jefferson County R-1,Belmar,Creighton,Lakewood
+152,4258 Lipan Street,Denver,80211,3.0,2.0,"1,255",649900,"$2,134",$0,N/A,39.77533861,-105.00151256,Denver 1,Trevista at Horace Mann,Skinner,North
+153,13130 W 31st Avenue,Golden,80401,4.0,3.0,"1,991",649500,"$2,318",$0,N/A,39.76022429,-105.14562481,Jefferson County R-1,Maple Grove,Everitt,Golden
+154,3229 Zinnia Court,Golden,80401,5.0,3.0,"2,494",649000,"$3,119",$0,N/A,39.76204278,-105.14539569,Jefferson County R-1,Maple Grove,Everitt,Golden
+156,21305 E 59th Drive,Aurora,80019,4.0,3.0,"2,005",648313,"$8,000",$85,Monthly,39.80660834,-104.73482558,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+157,21584 E 59th Drive,Aurora,80019,3.0,3.0,"2,992",647621,"$1,935",$79,Monthly,39.80356979,-104.73592555,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+158,15079 E Layton Place,Aurora,80015,4.0,4.0,"3,680",644900,"$1,810",$0,N/A,39.62927561,-104.81256971,Cherry Creek 5,Sagebrush,Laredo,Smoky Hill
+159,7013 Quail Street,Arvada,80004,4.0,3.0,"3,000",644900,"$2,980",$0,N/A,39.82506513,-105.12356876,Jefferson County R-1,Campbell,Oberon,Arvada West
+160,1879 S Saint Paul Street,Denver,80210,3.0,2.0,"1,523",644300,"$2,379",$0,N/A,39.68248,-104.95121,Denver 1,University Park,Merrill,South
+161,5042 N Quemoy Street,Aurora,80019,2.0,2.0,"1,981",644139,"$9,204",$195,Monthly,39.78701212,-104.73022105,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+162,4643 S Vrain Street,Denver,80236,3.0,3.0,"2,085",640000,"$2,128",$0,N/A,39.63337477,-105.04672052,Denver 1,Kaiser,Strive Federal,John F. Kennedy
+163,1120 S Harrison Street,Denver,80210,3.0,2.0,"1,256",640000,"$2,465",$0,N/A,39.69614,-104.941544,Denver 1,Cory,Merrill,South
+164,1972 S Holland Street,Lakewood,80227,3.0,2.0,"1,860",639900,"$2,105",$25,Annually,39.67950763,-105.10230764,Jefferson County R-1,Green Gables,Carmody,Bear Creek
+165,21564 E 59th Drive,Aurora,80019,3.0,3.0,"2,571",639594,"$1,935",$79,Monthly,39.80344409,-104.73615096,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+166,4736 Federal Boulevard,Denver,80211,3.0,2.0,"2,500",639000,"$2,709",$0,N/A,39.78267304,-105.02476314,Denver 1,Trevista at Horace Mann,Bryant-Webster,North
+167,3921 S Uinta Street,Denver,80237,4.0,3.0,"1,550",639000,"$1,830",$0,N/A,39.64556155,-104.89394736,Denver 1,Samuels,Hamilton,Thomas Jefferson
+168,4453 S Nepal Court,Aurora,80015,3.0,3.0,"2,193",638896,$0,$375,Semi-Annually,39.63618888,-104.74083729,Cherry Creek 5,Aspen Crossing,Sky Vista,Eaglecrest
+169,7685 Jellison Circle,Arvada,80005,4.0,3.0,"2,323",638000,"$3,412",$0,N/A,39.83654426,-105.108171,Jefferson County R-1,Warder,Moore,Pomona
+170,6034 N Malta Street,Aurora,80019,3.0,3.0,"2,499",637041,$483,$79,Monthly,39.80633097,-104.74135013,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+171,5540 W 73rd Avenue,Westminster,80003,3.0,3.0,"2,413",635000,"$2,590",$100,Monthly,39.82891419,-105.0571479,Jefferson County R-1,Thomson,North Arvada,Arvada
+172,364 S Kearney Street,Denver,80224,6.0,2.0,"2,607",634900,"$1,970",$0,N/A,39.71030175,-104.91724358,Denver 1,Carson,Hill,George Washington
+173,6043 N Nepal Street,Aurora,80019,3.0,3.0,"2,499",630500,$484,$79,Monthly,39.80641378,-104.74084457,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+174,115 Fox Street,Denver,80223,2.0,2.0,894,630000,"$1,520",$0,N/A,39.71875339,-104.99549683,Denver 1,Valverde,Kepner,West
+175,7500 E Dartmouth Avenue Unit 26,Denver,80231,3.0,3.0,"2,389",630000,"$2,212",$325,Monthly,39.65931508,-104.9000382,Denver 1,Samuels,Hamilton,Thomas Jefferson
+176,1462 Rosemary Street,Denver,80220,3.0,2.0,"1,600",629999,"$1,842",$0,N/A,39.73980994,-104.89967371,Denver 1,Montclair,Hill,George Washington
+177,4823 Tejon Street,Denver,80221,3.0,2.0,"1,959",629900,"$2,080",$0,N/A,39.78422379,-105.01154654,Denver 1,Beach Court,Strive Sunnyside,North
+178,2779 W 38th Avenue,Denver,80211,3.0,2.0,"2,598",629900,"$2,507",$0,N/A,39.76952528,-105.02257527,Denver 1,Columbian,Strive Sunnyside,North
+179,6802 Martin Luther King Boulevard,Denver,80207,3.0,3.0,790,629000,"$1,832",$0,N/A,39.76160225,-104.91022873,Denver 1,Smith Renaissance,DSST: Conservatory Green,Northfield
+180,20717 E Brunswick Place,Aurora,80013,2.0,2.0,"1,956",629000,"$5,057",$42,Monthly,39.66492075,-104.74670757,Adams-Arapahoe 28J,Aurora Frontier K-8,Aurora Frontier K-8,Vista Peak
+181,2088 S Lincoln Street,Denver,80210,3.0,2.0,"1,450",629000,"$2,383",$0,N/A,39.67872463,-104.98612475,Denver 1,Asbury,Grant,South
+182,705 W Nassau Way,Englewood,80110,4.0,3.0,"2,816",629000,"$2,339",$0,N/A,39.64301928,-104.995,Englewood 1,Clayton,Englewood,Englewood
+183,1655 S Monaco Parkway,Denver,80224,4.0,3.0,"2,300",626900,"$2,149",$0,N/A,39.68654,-104.91329,Denver 1,McMeen,Hill,Thomas Jefferson
+184,1106 W Princeton Place,Englewood,80110,3.0,2.0,"1,661",625000,"$2,051",$0,N/A,39.64063429,-105.00057556,Englewood 1,Clayton,Englewood,Englewood
+185,13366 W Warren Circle,Lakewood,80228,4.0,3.0,"2,800",625000,"$3,014",$0,N/A,39.67533028,-105.1490144,Jefferson County R-1,Rooney Ranch,Dunstan,Green Mountain
+186,1533 E 22nd Avenue,Denver,80205,3.0,2.0,"1,174",625000,"$2,135",$0,N/A,39.74964686,-104.96867811,Denver 1,Whittier  E-8,Bruce Randolph,East
+187,1499 S Iris Street,Lakewood,80232,4.0,4.0,"2,684",625000,"$2,818",$0,N/A,39.68957561,-105.10661536,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+188,18272 E Ida Drive,Centennial,80015,4.0,3.0,"2,406",625000,"$3,282",$195,Quarterly,39.60996575,-104.77429846,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+189,11516 W Grand Way,Littleton,80127,2.0,3.0,"1,850",624950,$0,$195,Monthly,39.62566792,-105.11344609,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+190,8326 W 71st Place,Arvada,80004,4.0,3.0,"2,306",624950,"$1,869",$0,N/A,39.82616315,-105.08970947,Jefferson County R-1,Peck,Arvada K-8,Arvada
+191,5390 S Olathe Circle,Centennial,80015,3.0,4.0,"2,659",624900,"$2,918",$62,Monthly,39.61871,-104.79441,Cherry Creek 5,Indian Ridge,Laredo,Smoky Hill
+192,9475 W 37th Avenue,Wheat Ridge,80033,4.0,3.0,"1,335",624500,"$2,659",$0,N/A,39.76770173,-105.10336817,Jefferson County R-1,Wilmore-Davis,Everitt,Wheat Ridge
+193,5469 S Shawnee Way,Aurora,80015,3.0,3.0,"2,417",624300,"$3,680",$70,Monthly,39.61703,-104.72962,Cherry Creek 5,Antelope Ridge,Thunder Ridge,Eaglecrest
+194,4675 W 63rd Place,Arvada,80003,3.0,4.0,"2,319",624300,"$3,893",$68,Monthly,39.81248,-105.04758,Westminster Public Schools,Other,Other,Westminster
+195,21364 E 59th Drive,Aurora,80019,3.0,3.0,"2,187",623500,"$1,935",$79,Monthly,39.80444505,-104.73882457,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+196,21668 E 61st Dr,Aurora,80019,3.0,3.0,"3,217",621000,"$1,935",$79,Monthly,39.80774535,-104.73487384,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+197,21344 E 59th Drive,Aurora,80019,3.0,3.0,"2,132",620500,"$1,935",$79,Monthly,39.80449794,-104.73895905,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+198,1595 S Steele Street,Denver,80210,2.0,2.0,"1,080",620000,"$2,394",$0,N/A,39.68767938,-104.95138905,Denver 1,Cory,Merrill,South
+199,1895 S Beech Street,Lakewood,80228,3.0,3.0,"1,846",620000,"$2,776",$0,N/A,39.68235628,-105.153871,Jefferson County R-1,Hutchinson,Dunstan,Green Mountain
+200,6110 Johnson Way,Arvada,80004,5.0,3.0,"2,220",619900,"$2,186",$0,N/A,39.80908449,-105.1103137,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+201,19949 E 61st Drive,Aurora,80019,5.0,3.0,"2,849",619900,$842,$30,Monthly,39.80866782,-104.75489956,School District 27-J,Second Creek,Otho Stuart,Prairie View
+202,1420 S Birch Street,Denver,80222,3.0,2.0,"1,507",619000,"$2,136",$0,N/A,39.69072651,-104.9359761,Denver 1,Ellis,Merrill,South
+203,21085 E Quincy Drive,Aurora,80013,3.0,3.0,"1,800",618528,$0,$80,Monthly,39.6381425,-104.74265538,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+204,735 Cole Drive,Lakewood,80401,3.0,3.0,"1,824",616000,"$2,192",$0,N/A,39.72774469,-105.15160525,Jefferson County R-1,Welchester,Bell,Golden
+205,10009 W 60th Avenue,Arvada,80004,5.0,3.0,"2,516",615000,"$1,493",$0,N/A,39.80603349,-105.11026173,Jefferson County R-1,Allendale,Drake,Arvada West
+206,49 W Alameda Avenue,Denver,80223,3.0,2.0,"1,407",615000,"$2,543",$0,N/A,39.71140352,-104.98884109,Denver 1,Lincoln,Grant,South
+207,12033 W Maryland Drive,Lakewood,80228,2.0,2.0,"2,210",615000,"$1,832",$0,N/A,39.69246503,-105.1293446,Jefferson County R-1,Devinny,Dunstan,Green Mountain
+208,7900 E Dartmouth Avenue Unit 40,Denver,80231,3.0,3.0,"2,330",615000,"$2,332",$325,Monthly,39.65932504,-104.89792961,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+209,3430 Dexter Street,Denver,80207,4.0,2.0,"1,969",615000,"$2,448",$0,N/A,39.76506341,-104.93287253,Denver 1,Stedman,William (Bill) Roberts,East
+210,5472 Tamarac Way,Denver,80238,3.0,3.0,"1,666",610000,"$4,593",$43,Monthly,39.79585905,-104.89484456,Denver 1,Westerly Creek,Denver Discovery,Northfield
+211,7943 W 62nd Way,Arvada,80004,4.0,3.0,"3,151",610000,"$3,311",$0,N/A,39.81065087,-105.08500872,Jefferson County R-1,Peck,Arvada K-8,Arvada
+212,13937 W Baker Place,Lakewood,80228,3.0,2.0,"1,918",609000,"$2,441",$0,N/A,39.6718946,-105.15588281,Jefferson County R-1,Rooney Ranch,Dunstan,Green Mountain
+213,6045 N Nepal Street,Aurora,80019,3.0,3.0,"2,759",609000,$484,$79,Monthly,39.80651182,-104.74091206,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+214,21051 E Quincy Drive,Aurora,80013,3.0,3.0,"1,946",607750,$0,$80,Monthly,39.63813937,-104.74323711,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+215,2807 S Lisbon Way,Aurora,80013,3.0,3.0,"2,130",603000,"$4,906",$42,Monthly,39.66642474,-104.74927549,Adams-Arapahoe 28J,Aurora Frontier K-8,Aurora Frontier K-8,Vista Peak
+216,21577 E Mansfield Drive,Aurora,80013,5.0,3.0,"3,950",600000,"$4,634",$302,Semi-Annually,39.64569599,-104.73652858,Cherry Creek 5,Dakota Valley,Sky Vista,Eaglecrest
+217,21498 E Mansfield Place,Aurora,80013,3.0,2.0,"2,471",600000,"$3,682",$302,Semi-Annually,39.64452914,-104.73706846,Cherry Creek 5,Dakota Valley,Sky Vista,Eaglecrest
+218,3425 S Grape Street,Denver,80222,3.0,2.0,"1,300",600000,"$2,116",$0,N/A,39.65436372,-104.92516971,Denver 1,Bradley,Hamilton,Thomas Jefferson
+219,4459 S Xavier Street,Denver,80236,3.0,3.0,"1,752",600000,"$1,737",$0,N/A,39.63650626,-105.05086,Denver 1,Kaiser,Henry,John F. Kennedy
+220,3011 S Jericho Way,Aurora,80013,4.0,3.0,"2,310",600000,"$4,681",$41,Monthly,39.66280627,-104.75214654,Adams-Arapahoe 28J,Aurora Frontier K-8,Aurora Frontier K-8,Vista Peak
+221,1056 S Pennsylvania Street,Denver,80209,2.0,1.0,"1,019",600000,"$2,513",$0,N/A,39.69749,-104.98128,Denver 1,Lincoln,Grant,South
+222,4699 E Bails Place,Denver,80222,6.0,2.0,"2,000",600000,"$2,052",$0,N/A,39.68299504,-104.93252673,Denver 1,Ellis,Merrill,South
+223,3695 Elm Street,Denver,80207,3.0,2.0,"1,316",600000,"$1,684",$0,N/A,39.76822871,-104.92964718,Denver 1,Smith Renaissance,McAuliffe International,East
+224,2486 Ingalls Street,Edgewater,80214,3.0,2.0,"1,239",600000,"$2,481",$0,N/A,39.75272519,-105.0634886,Jefferson County R-1,Edgewater,Jefferson,Jefferson
+225,2632 N Marion Street,Denver,80205,3.0,2.0,"1,429",600000,"$2,809",$0,N/A,39.7552015,-104.97183001,Denver 1,Whittier  E-8,Wyatt,Manual
+226,75 S Knox Court,Denver,80219,3.0,3.0,"1,552",599999,"$1,337",$0,N/A,39.71512197,-105.03279954,Denver 1,Newlon,Compass Academy,West
+227,5295 S Cody Street,Littleton,80123,2.0,2.0,"1,474",599999,"$1,816",$795,Annually,39.61908768,-105.09446536,Jefferson County R-1,Governor's Ranch,Ken Caryl,Columbine
+228,9135 W 5th Place,Lakewood,80226,6.0,3.0,"1,456",599999,"$2,400",$0,N/A,39.72420165,-105.09970168,Jefferson County R-1,South Lakewood,Creighton,Lakewood
+229,6462 N Ceylon Court,Denver,80249,3.0,3.0,"2,041",599990,$0,$33,Monthly,39.81470047,-104.76647611,School District 27-J,Second Creek,Otho Stuart,Prairie View
+230,970 S Chase Street,Lakewood,80226,3.0,2.0,"1,506",599900,"$1,544",$0,N/A,39.69926163,-105.05927527,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+231,11250 W Aqueduct Drive,Littleton,80127,3.0,3.0,"1,543",599900,"$2,006",$116,Quarterly,39.61744124,-105.12530354,Jefferson County R-1,Westridge,Summit Ridge,Dakota Ridge
+232,1789 S Quail Street,Lakewood,80232,4.0,3.0,"2,508",599900,"$2,244",$0,N/A,39.68404007,-105.12463625,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+233,3883 E Montana Place,Denver,80210,3.0,1.0,"1,105",599900,"$2,014",$0,N/A,39.68427577,-104.94324319,Denver 1,Cory,Merrill,South
+234,935 S Sheridan Boulevard,Lakewood,80226,4.0,2.0,"1,330",599900,"$2,429",$0,N/A,39.69902163,-105.05383095,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+235,3815 Independence Court,Wheat Ridge,80033,3.0,2.0,"1,980",599000,"$3,007",$0,N/A,39.76988259,-105.1057699,Jefferson County R-1,Wilmore-Davis,Everitt,Wheat Ridge
+236,664 S Galena Street,Denver,80247,4.0,3.0,"2,253",599000,"$1,652",$50,Annually,39.70291914,-104.86931227,Denver 1,Place,Place,George Washington
+237,5433 S Quintero Way,Centennial,80015,4.0,3.0,"2,564",599000,"$3,473",$62,Annually,39.61730736,-104.78823705,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+238,1075 Jasmine Street,Denver,80220,2.0,1.0,"1,382",599000,"$2,429",$0,N/A,39.73218675,-104.91921644,Denver 1,Palmer,Hill,George Washington
+239,6487 Independence Way,Arvada,80004,5.0,3.0,"1,719",599000,"$1,704",$0,N/A,39.81520533,-105.10738368,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+240,2633 E 30th Avenue,Denver,80205,3.0,1.0,"1,280",599000,"$2,356",$0,N/A,39.75966132,-104.95526449,Denver 1,Columbine,Bruce Randolph,Manual
+241,9772 E 62nd Drive,Denver,80238,2.0,3.0,"1,563",599000,$0,$43,Monthly,39.8078907,-104.8760116,Denver 1,Inspire,DSST: Byers Middle School,Northfield
+242,6115 Ames Street,Arvada,80003,4.0,2.0,"2,500",599000,"$2,471",$0,N/A,39.80816751,-105.05482793,Jefferson County R-1,Swanson,North Arvada,Arvada
+243,8115 E Bethany Place,Denver,80231,5.0,3.0,"2,485",599000,"$2,332",$0,N/A,39.66643,-104.89489,Denver 1,Other,Hamilton,Thomas Jefferson
+244,3241 Champa Street,Denver,80205,3.0,3.0,"1,464",599000,"$2,789",$0,N/A,39.76228889,-104.97412847,Denver 1,Gilpin,Bruce Randolph,Manual
+245,8115 E Bethany Place,Denver,80231,5.0,3.0,"2,485",599000,"$2,332",$0,N/A,39.66642497,-104.89491614,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+246,2542 N Lafayette Street,Denver,80205,2.0,1.0,"1,126",599000,"$2,486",$0,N/A,39.75407175,-104.97051042,Denver 1,Whittier  E-8,Wyatt,Manual
+247,1990 S Fox Street,Denver,80223,4.0,2.0,"2,129",598000,"$2,079",$0,N/A,39.68046263,-104.99460156,Denver 1,McKinley-Thatcher,Grant,South
+248,11497 W Grand Way,Littleton,80127,2.0,3.0,"1,850",596989,$0,$195,Monthly,39.62584791,-105.12450409,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+249,5652 Jellison Street,Arvada,80002,4.0,2.0,"2,178",595000,"$2,866",$0,N/A,39.79982771,-105.10791355,Jefferson County R-1,Arvada K-8,Arvada K-8,Arvada
+250,6921 E Arkansas Avenue,Denver,80224,4.0,3.0,"1,758",595000,"$1,503",$0,N/A,39.69122694,-104.90761211,Denver 1,McMeen,Hill,George Washington
+251,760 W Asbury Avenue,Denver,80223,3.0,2.0,"1,344",595000,"$2,444",$0,N/A,39.68011925,-104.99672073,Denver 1,McKinley-Thatcher,Grant,South
+252,1416 Fillmore Street,Denver,80206,2.0,1.0,"1,467",595000,"$2,250",$0,N/A,39.73868197,-104.95262736,Denver 1,Teller,Morey,East
+253,5975 Robb Court,Arvada,80004,4.0,3.0,"2,393",595000,"$3,005",$0,N/A,39.80445311,-105.125254,Jefferson County R-1,Vanderhoof,Drake,Arvada West
+254,7168 Ammons Street,Arvada,80004,3.0,2.0,"2,419",595000,"$1,929",$0,N/A,39.82654585,-105.0864551,Jefferson County R-1,Peck,Arvada K-8,Arvada
+256,5103 S Parfet Way,Littleton,80127,3.0,3.0,"1,720",595000,"$2,987",$39,Monthly,39.62364406,-105.12090425,Jefferson County R-1,West Ridge,Summit Ridge,Dakota Ridge
+257,5957 N Flower Street,Arvada,80004,3.0,2.0,"1,413",595000,"$2,248",$0,N/A,39.80514598,-105.09954273,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+258,18514 E Bethany Place,Aurora,80013,4.0,4.0,"3,100",595000,"$2,316",$310,Annually,39.66142144,-104.7711812,Cherry Creek 5,Arrowhead,Horizon,Smoky Hill
+259,3640 Kearney Street,Denver,80207,3.0,3.0,"1,610",595000,"$1,592",$0,N/A,39.76844481,-104.91720199,Denver 1,Smith Renaissance,McAuliffe International,East
+260,7721 Garrison Court,Arvada,80005,4.0,3.0,"2,476",595000,"$2,856",$0,N/A,39.83620967,-105.1026879,Jefferson County R-1,Warder,Moore,Pomona
+261,21061 E Quincy Drive,Aurora,80013,2.0,3.0,"1,807",592881,$0,$80,Monthly,39.63795078,-104.74319956,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+262,4705 Newton Street,Denver,80211,3.0,2.0,980,592000,"$2,408",$0,N/A,39.78237427,-105.037276,Denver 1,Centennial,Strive Sunnyside,North
+263,1617 S Pagosa Court,Aurora,80017,3.0,4.0,"3,289",590000,"$3,329",$420,Annually,39.68974235,-104.78553071,Adams-Arapahoe 28J,Arkansas,Mrachek,Rangeview
+264,1057 S Sheridan Boulevard,Lakewood,80226,6.0,2.0,"2,267",590000,"$2,306",$0,N/A,39.6980059,-105.05381029,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+265,5229 S Parfet Way,Littleton,80127,4.0,3.0,"1,976",590000,"$2,966",$39,Monthly,39.62178706,-105.12230554,Jefferson County R-1,West Ridge,Summit Ridge,Dakota Ridge
+266,1690 Spruce Street,Denver,80220,4.0,2.0,"1,672",590000,"$2,050",$0,N/A,39.74363597,-104.89731887,Denver 1,Ashley,Hill,George Washington
+267,3511 N Steele Street,Denver,80205,3.0,2.0,"1,523",590000,"$2,355",$0,N/A,39.7659835,-104.95025745,Denver 1,Harrington,McAuliffe International,Manual
+268,12346 W Ohio Circle,Lakewood,80228,4.0,2.0,"1,796",589000,"$2,560",$0,N/A,39.69827908,-105.13645698,Jefferson County R-1,Green Mountain,Dunstan,Green Mountain
+269,5179 E 63rd Place,Denver,80022,4.0,3.0,"1,852",589000,$0,$135,Monthly,39.81256635,-104.92827128,Adams 14,Kemp,Kearney,Adams City
+270,7138 Xenon Court,Arvada,80004,3.0,2.0,"2,333",589000,"$2,947",$0,N/A,39.82595924,-105.14018981,Jefferson County R-1,Stott,Oberon,Arvada West
+271,3379 W Wagon Trail Drive,Englewood,80110,5.0,2.0,"2,002",589000,"$2,127",$0,N/A,39.63121434,-105.0336191,Denver 1,Kaiser,Strive Federal,John F. Kennedy
+272,5041 N Quemoy Court,Aurora,80018,2.0,2.0,"2,542",588630,"$8,209",$195,Monthly,39.78695119,-104.73093572,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+273,3818 S Helena Way,Aurora,80013,3.0,3.0,"2,513",588100,"$1,993",$30,Annually,39.64717,-104.80745,Cherry Creek 5,Mission Viejo,Laredo,Smoky Hill
+274,2330 S Quitman Street,Denver,80219,6.0,2.0,"2,143",588000,"$1,821",$0,N/A,39.67440338,-105.04085998,Denver 1,Doull,DSST: College View,John F. Kennedy
+275,9764 E 62nd,Denver,80238,3.0,3.0,"1,461",587000,$1,$43,Monthly,39.80978292,-104.87654598,Denver 1,Bill Roberts E-8,Bill Roberts E-8,Northfield
+276,6921 E Vassar Avenue,Denver,80224,5.0,3.0,"2,527",585000,"$1,795",$0,N/A,39.66985938,-104.90671409,Denver 1,Joe Shoemaker,Hamilton,Thomas Jefferson
+277,1633 S Yukon Street,Lakewood,80232,3.0,3.0,"2,075",585000,"$1,590",$0,N/A,39.68732999,-105.08283373,Jefferson County R-1,Patterson,Alameda Int'l,Alameda Int'l
+278,6260 Johnson Way,Arvada,80004,4.0,3.0,"2,005",585000,"$2,370",$0,N/A,39.81075619,-105.11223824,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+279,8945 Cole Drive,Arvada,80004,4.0,3.0,"2,736",585000,"$3,077",$0,N/A,39.81024687,-105.09696393,Jefferson County R-1,Fitzmorris,North Arvada,Arvada
+280,5409 Jellison Street,Arvada,80002,4.0,3.0,"2,231",584900,"$2,853",$0,N/A,39.79562382,-105.1069316,Jefferson County R-1,Arvada K-8,Arvada K-8,Arvada
+281,4835 Vallejo Street,Denver,80221,3.0,2.0,"1,597",584500,"$1,735",$0,N/A,39.7845252,-105.01382096,Denver 1,Beach Court,Skinner,North
+282,3140 Sheridan Boulevard,Denver,80214,5.0,3.0,"2,555",584000,"$2,433",$0,N/A,39.76194317,-105.05301756,Denver 1,Edison,Denver Montessori,North
+283,22193 E Stanford Circle,Aurora,80015,3.0,2.0,"1,740",583639,$0,$63,Monthly,39.63439308,-104.72992684,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+284,10347 W Bellewood Place,Littleton,80127,4.0,3.0,"2,601",582500,"$3,064",$0,N/A,39.62503422,-105.11374857,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+285,19220 E Pacific Place,Aurora,80013,3.0,3.0,"2,044",582000,"$5,163",$100,Monthly,39.6785129,-104.76350615,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+286,5263 S Zeno Way,Centennial,80015,4.0,4.0,"2,521",580000,"$2,939",$65,Annually,39.62007781,-104.77379902,Cherry Creek 5,Meadow Point,Falcon Creek,Grandview
+287,21838 E Powers Drive,Centennial,80015,4.0,4.0,"2,439",579900,"$3,427",$37,Monthly,39.61388048,-104.73406245,Cherry Creek 5,Antelope Ridge,Thunder Ridge,Eaglecrest
+288,3170 W Radcliff Avenue,Englewood,80110,5.0,2.0,"2,470",579000,"$2,645",$0,N/A,39.63695393,-105.02761751,Sheridan 2,Sheridan,Sheridan,Sheridan
+289,2857 S Zenobia Street,Denver,80236,5.0,2.0,"2,083",579000,"$2,038",$0,N/A,39.663914,-105.051454,Denver 1,Doull,Henry,John F. Kennedy
+290,21706 E Stanford Circle,Aurora,80015,3.0,3.0,"1,831",578531,"$1,983",$63,Monthly,39.63449894,-104.73493168,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+291,22031 E Stanford Circle,Aurora,80015,3.0,2.0,"2,082",577950,$0,$63,Monthly,39.63496585,-104.73114001,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+292,2760 S Perry Street,Denver,80236,4.0,2.0,"2,443",575000,"$2,098",$0,N/A,39.66553,-105.03976,Denver 1,Gust,Strive Federal,John F. Kennedy
+293,2760 S Perry Street,Denver,80236,4.0,2.0,"2,443",575000,"$2,098",$0,N/A,39.66552786,-105.039767,Denver 1,Gust,Strive Federal,John F. Kennedy
+294,670 S Raritan Street,Denver,80223,4.0,2.0,"1,739",575000,"$1,822",$0,N/A,39.70414198,-105.00834764,Denver 1,Goldrick,Grant,Abraham Lincoln
+295,17705 E Ida Avenue,Centennial,80015,5.0,4.0,"3,146",575000,"$3,376",$0,N/A,39.61110542,-104.78520336,Cherry Creek 5,Trails West,Falcon Creek,Grandview
+296,11556 W 38th Place,Wheat Ridge,80033,4.0,2.0,"1,789",575000,"$2,615",$0,N/A,39.76981145,-105.12774281,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+297,6654 Nelson Street,Arvada,80004,5.0,3.0,"2,292",575000,"$2,505",$0,N/A,39.81779409,-105.11537906,Jefferson County R-1,Campbell,Oberon,Arvada West
+298,6172 Carr Street,Arvada,80004,4.0,3.0,"2,422",575000,"$2,273",$0,N/A,39.80845074,-105.09047846,Jefferson County R-1,Fitzmorris,Arvada K-8,Arvada
+299,4822 S Grant Street,Englewood,80113,4.0,3.0,"1,828",575000,"$2,019",$0,N/A,39.62908794,-104.98415943,Englewood 1,Cherrelyn,Englewood,Englewood
+300,1494 S Hoyt Street,Lakewood,80232,3.0,3.0,"1,731",575000,"$2,547",$0,N/A,39.68956878,-105.10510076,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+301,1553 S Yank Street,Lakewood,80228,3.0,3.0,"2,194",575000,"$2,741",$0,N/A,39.68864,-105.14455,Jefferson County R-1,Devinny,Dunstan,Green Mountain
+302,4954 S Evanston Street,Aurora,80015,4.0,3.0,"2,138",574900,"$2,059",$35,Annually,39.62695951,-104.81400541,Cherry Creek 5,Sagebrush,Laredo,Smoky Hill
+303,6461 N Ceylon Street,Denver,80249,4.0,3.0,"1,949",574710,"$6,000",$39,Monthly,39.81495702,-104.76479339,School District 27-J,Second Creek,Otho Stuart,Prairie View
+304,21081 E Quincy Drive,Aurora,80013,3.0,3.0,"1,800",574281,$0,$80,Monthly,39.63812804,-104.74295474,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+305,2787 S Waco Way,Aurora,80013,3.0,4.0,"3,370",574000,"$2,606",$45,Monthly,39.66501697,-104.77748306,Adams-Arapahoe 28J,Dalton,Columbia,Rangeview
+306,2309 S Eldridge Street,Lakewood,80228,4.0,3.0,"2,161",570000,"$2,334",$0,N/A,39.67566364,-105.15781192,Jefferson County R-1,Rooney Ranch,Dunstan,Green Mountain
+307,1760 Del Mar Parkway,Aurora,80010,5.0,3.0,"2,160",570000,"$2,589",$0,N/A,39.74493869,-104.87379651,Adams-Arapahoe 28J,Crawford,Aurora West,Aurora Central
+308,5160 E 64th Avenue,Commerce City,80022,4.0,3.0,"1,852",570000,$0,$130,Monthly,39.81256635,-104.92827128,Adams 14,Kemp,Kearney,Adams City
+309,4765 S Bannock Street,Englewood,80110,5.0,2.0,"2,644",570000,"$1,433",$0,N/A,39.63006095,-104.99060986,Englewood 1,Clayton,Englewood,Englewood
+310,4196 S Cherokee Street,Englewood,80110,5.0,2.0,"2,112",569900,"$2,150",$0,N/A,39.64063721,-104.99112669,Englewood 1,Clayton,Englewood,Englewood
+311,3211 S Galapago Street,Englewood,80110,4.0,2.0,"1,960",569900,"$2,156",$0,N/A,39.6584238,-104.99612675,Englewood 1,Bishop,Englewood,Englewood
+312,3720 Martin Luther King Boulevard,Denver,80205,4.0,2.0,"1,585",569900,"$1,766",$0,N/A,39.76137442,-104.94359548,Denver 1,Columbine,Bruce Randolph,East
+313,1453 Rosemary Street,Denver,80220,3.0,2.0,"1,685",569000,"$2,138",$0,N/A,39.73970232,-104.90024436,Denver 1,Montclair,Hill,George Washington
+314,5110 E 64th Avenue,Commerce City,80022,4.0,3.0,"1,852",569000,$0,$130,Monthly,39.81256635,-104.92827128,Adams 14,Kemp,Kearney,Adams City
+315,1021 Quebec Street,Denver,80220,3.0,2.0,"1,680",569000,"$2,079",$0,N/A,39.73162241,-104.90315946,Denver 1,Montclair,Hill,George Washington
+316,3201 W Farmdale Road,Englewood,80110,4.0,3.0,"2,326",568800,"$2,284",$0,N/A,39.63835517,-105.02834294,Sheridan 2,Sheridan,Sheridan,Sheridan
+317,20 Dudley Street,Lakewood,80226,6.0,2.0,"2,240",567900,"$2,576",$0,N/A,39.71740867,-105.09464919,Jefferson County R-1,South Lakewood,Creighton,Lakewood
+318,3690 Dahlia Street,Denver,80207,5.0,3.0,"2,067",565500,"$1,781",$0,N/A,39.76880293,-104.93130269,Denver 1,Smith Renaissance,Smiley,East
+319,18244 E Mansfield Avenue,Aurora,80013,5.0,4.0,"2,652",565000,"$2,082",$0,N/A,39.64506448,-104.77540522,Cherry Creek 5,Summit,Horizon,Smoky Hill
+320,10403 W Arkansas Drive,Lakewood,80232,3.0,3.0,"1,672",565000,"$2,484",$0,N/A,39.69122328,-105.114984,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+321,1209 S Brentwood Street,Lakewood,80232,4.0,2.0,"2,114",565000,"$1,941",$0,N/A,39.69455636,-105.08986181,Jefferson County R-1,Patterson,Alameda Int'l,Alameda Int'l
+322,1711 S Nome Way,Aurora,80012,4.0,3.0,"2,585",564900,"$2,278",$0,N/A,39.68545997,-104.85269437,Cherry Creek 5,Ponderosa,Prairie,Overland
+323,5140 E 64th Avenue,Commerce City,80022,3.0,3.0,"1,700",564000,$0,$130,Monthly,39.81256635,-104.92827128,Adams 14,Kemp,Kearney,Adams City
+324,11747 E Atlantic Place,Aurora,80014,4.0,3.0,"2,258",562300,"$2,247",$20,Annually,39.68105219,-104.85116724,Cherry Creek 5,Ponderosa,Prairie,Overland
+325,3421 N Harrison Street,Denver,80205,4.0,2.0,"1,938",560000,"$2,356",$0,N/A,39.76491392,-104.94205346,Denver 1,Barrett,McAuliffe International,East
+326,1641 S Oswego Street,Aurora,80012,5.0,3.0,"2,780",560000,"$1,945",$0,N/A,39.6868893,-104.85003833,Cherry Creek 5,Village East,Prairie,Overland
+327,3085 Wilson Court,Denver,80205,2.0,2.0,"1,400",560000,"$1,641",$0,N/A,39.76064107,-104.94707408,Denver 1,Columbine,McAuliffe International,East
+328,3320 W Pimlico Avenue,Englewood,80110,4.0,2.0,"2,195",560000,"$2,091",$0,N/A,39.63247265,-105.03127539,Denver 1,Kaiser,Henry,John F. Kennedy
+329,6651 Harlan Street,Arvada,80003,5.0,3.0,"2,090",560000,"$2,428",$0,N/A,39.81763809,-105.06241095,Jefferson County R-1,Swanson,North Arvada,Arvada
+330,5284 S Jericho Street,Centennial,80015,4.0,3.0,"1,748",559900,"$1,876",$70,Monthly,39.62077,-104.74911,Cherry Creek 5,Timberline,Thunder Ridge,Eaglecrest
+331,1870 W Beekman Place,Denver,80221,3.0,2.0,"1,282",559900,"$1,676",$0,N/A,39.78839308,-105.00964325,Denver 1,Beach Court,Skinner,North
+332,5782 S Ouray Court,Centennial,80015,4.0,3.0,"2,708",559900,"$3,265",$62,Monthly,39.61143976,-104.79215437,Cherry Creek 5,Indian Ridge,Laredo,Smoky Hill
+333,1868 S Ironton Street,Aurora,80012,2.0,2.0,"1,817",559000,"$1,775",$130,Quarterly,39.68269565,-104.86262081,Cherry Creek 5,Ponderosa,Prairie,Overland
+334,2755 S Utica Street,Denver,80236,3.0,2.0,"1,735",559000,"$1,781",$0,N/A,39.6664712,-105.04510136,Denver 1,Doull,Henry,John F. Kennedy
+335,885 Deframe Street,Golden,80401,2.0,1.0,882,555000,"$2,573",$0,N/A,39.73061992,-105.15454973,Jefferson County R-1,Welchester,Bell,Golden
+336,6441 N Dunkirk Court,Aurora,80019,4.0,3.0,"2,115",554300,"$4,361",$30,Monthly,39.813706,-104.762135,School District 27-J,Second Creek,Otho Stuart,Prairie View
+337,11202 E Mexico Avenue,Aurora,80012,5.0,3.0,"3,108",550000,"$2,286",$0,N/A,39.6849232,-104.85757412,Cherry Creek 5,Ponderosa,Prairie,Overland
+338,11355 E Colorado Drive,Aurora,80012,3.0,2.0,"2,053",550000,"$1,466",$0,N/A,39.68445,-104.85602,Cherry Creek 5,Ponderosa,Prairie,Overland
+339,2135 S Telluride Court,Aurora,80013,4.0,4.0,"2,736",550000,"$2,915",$456,Annually,39.67756993,-104.781155,Adams-Arapahoe 28J,Vassar,Mrachek,Rangeview
+340,19823 E 58th Avenue,Aurora,80019,7.0,4.0,"2,638",550000,"$4,280",$55,Monthly,39.80183455,-104.75797279,Adams-Arapahoe 28J,Harmony Ridge P-8,Harmony Ridge P-8,Vista Peak
+341,14290 W 50th Avenue,Golden,80403,2.0,2.0,882,550000,"$2,469",$0,N/A,39.78699242,-105.15956319,Jefferson County R-1,Fairmount,Drake,Arvada West
+342,81 N Sherman Street,Denver,80203,3.0,1.0,"1,246",550000,"$2,767",$0,N/A,39.71801925,-104.98525921,Denver 1,Dora Moore,Grant,South
+343,3906 W 63rd Avenue,Arvada,80003,3.0,2.0,"1,065",550000,"$3,371",$0,Annually,39.81147974,-105.03842568,Westminster Public Schools,Tennyson Knolls,Scott Carpenter,Westminster
+344,6777 Vivian Street,Arvada,80004,4.0,3.0,"2,196",550000,"$2,783",$0,N/A,39.82052983,-105.13762805,Jefferson County R-1,Fremont,Oberon,Arvada West
+345,12246 W Texas Drive,Lakewood,80228,4.0,3.0,"2,095",550000,"$1,932",$0,N/A,39.69513405,-105.13169854,Jefferson County R-1,Green Mountain,Dunstan,Green Mountain
+346,9281 W Louisiana Avenue,Lakewood,80232,3.0,2.0,"1,462",550000,"$2,214",$0,N/A,39.69360631,-105.10200222,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+347,6725 Upham Street,Arvada,80003,3.0,2.0,"2,008",550000,"$2,141",$0,N/A,39.81924778,-105.0788117,Jefferson County R-1,Secrest,Arvada K-8,Arvada
+348,6012 Newcombe Court,Arvada,80004,5.0,3.0,"1,879",550000,"$1,876",$0,N/A,39.80625711,-105.11785029,Jefferson County R-1,Allendale,Drake,Arvada West
+349,1166 S Nome Street,Aurora,80012,4.0,3.0,"2,791",550000,"$1,880",$0,N/A,39.69403361,-104.85245985,Cherry Creek 5,Village East,Prairie,Overland
+350,6580 W Nevada Place,Lakewood,80226,3.0,2.0,"1,832",550000,"$1,960",$0,N/A,39.70922128,-105.06969433,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+351,18755 Robins Drive,Denver,80249,3.0,3.0,"2,563",550000,"$4,402",$0,N/A,39.797172,-104.76885927,Denver 1,Waller,DSST: Green Valley Ranch,DSST: Green Valley Ranch
+352,5609 Yukon Street,Arvada,80002,3.0,2.0,"1,043",550000,"$1,937",$0,N/A,39.79968803,-105.08285911,Jefferson County R-1,Lawrence,Arvada K-8,Arvada
+353,8564 W Radcliffe Place,Littleton,80123,3.0,3.0,"1,916",550000,"$2,447",$0,N/A,39.63601329,-105.092773,Jefferson County R-1,Westgate,Carmody,Bear Creek
+354,8945 W 55th Avenue,Arvada,80002,2.0,2.0,"1,413",549900,"$1,905",$0,N/A,39.79777668,-105.09678816,Jefferson County R-1,Lawrence,Arvada K-8,Arvada
+355,954 S Queen Way,Lakewood,80226,3.0,2.0,"1,715",549900,"$1,392",$0,N/A,39.69987734,-105.12432376,Jefferson County R-1,Glennon Heights,Creighton,Lakewood
+356,3280 S Lowell Boulevard,Denver,80236,5.0,2.0,"1,820",549900,"$1,873",$0,N/A,39.65938602,-105.03484976,Denver 1,Gust,Henry,John F. Kennedy
+357,3803 W Girard Avenue,Denver,80236,5.0,2.0,"2,230",549900,"$1,920",$0,N/A,39.6574842,-105.03664682,Denver 1,Gust,Bear Valley International,John F. Kennedy
+358,8600 W 52nd Avenue,Arvada,80002,4.0,3.0,"2,298",549900,"$2,926",$0,N/A,39.79083873,-105.09246961,Jefferson County R-1,Arvada K-8,Arvada K-8,Arvada
+359,4165 S Fox Street,Englewood,80110,3.0,2.0,"1,462",549000,"$1,689",$0,N/A,39.64097766,-104.99507138,Englewood 1,Clayton,Englewood,Englewood
+360,3659 Jason Street,Denver,80211,3.0,1.0,"1,187",548900,"$2,255",$0,N/A,39.76794668,-104.99982217,Denver 1,Bryant-Webster,Strive Sunnyside,North
+361,21894 E 9th Place,Aurora,80018,3.0,3.0,"2,112",548115,"$6,725",$0,N/A,39.73065507,-104.72844133,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+362,7770 W Woodard Circle,Lakewood,80227,3.0,3.0,"2,147",547000,"$2,520",$0,N/A,39.67557376,-105.08455372,Jefferson County R-1,Green Gables,Carmody,Bear Creek
+363,4582 E Bails Place,Denver,80222,4.0,2.0,868,545000,"$2,008",$0,N/A,39.68264231,-104.93287394,Denver 1,Ellis,Merrill,South
+364,1310 Magnolia Street,Denver,80220,2.0,1.0,984,545000,"$2,066",$0,N/A,39.73760014,-104.91135246,Denver 1,Montclair,Hill,George Washington
+365,1122 S Flower Circle,Lakewood,80232,3.0,3.0,"1,464",545000,"$2,014",$82,Monthly,39.69537321,-105.09874227,Jefferson County R-1,Patterson,Alameda Int'l,Alameda Int'l
+366,7135 Newland Street,Arvada,80003,4.0,2.0,"1,794",545000,"$2,316",$0,N/A,39.82659254,-105.06949316,Jefferson County R-1,Swanson,North Arvada,Arvada
+367,1306 S Zephyr Court,Lakewood,80232,5.0,2.0,"2,038",545000,"$2,117",$0,N/A,39.69192967,-105.085036,Jefferson County R-1,Patterson,Alameda Int'l,Alameda Int'l
+368,6162 Estes Street,Arvada,80004,4.0,2.0,"1,820",545000,"$3,005",$0,N/A,39.80892327,-105.095245,Jefferson County R-1,Fitzmorris,Woodrow Wilson Charter Academy,Arvada
+369,2071 S Ensenada Way,Aurora,80013,4.0,4.0,"1,932",540000,"$2,811",$210,Annually,39.67842828,-104.761391,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+370,5040 Clay Street,Denver,80221,3.0,2.0,900,539500,,$0,N/A,39.78826,-105.02014,Denver 1,Beach Court,Skinner,North
+371,4860 Eliot Street,Denver,80221,3.0,1.0,"1,111",539400,"$1,459",$0,N/A,39.78495582,-105.02373088,Denver 1,Beach Court,Strive Sunnyside,North
+372,2613 S Killarney Court,Aurora,80013,3.0,3.0,"1,802",539000,"$4,489",$42,Monthly,39.66959611,-104.75096463,Adams-Arapahoe 28J,Aurora Frontier K-8,Aurora Frontier K-8,Vista Peak
+373,2000 S Stuart Street,Denver,80219,4.0,3.0,"2,154",539000,"$1,905",$0,N/A,39.68093819,-105.0430231,Denver 1,Doull,Strive Federal,John F. Kennedy
+374,3501 W 53rd Avenue,Denver,80221,4.0,2.0,"2,599",539000,"$4,111",$0,N/A,39.79314988,-105.03331657,Westminster Public Schools,Tennyson Knolls,Scott Carpenter,Westminster
+375,1000 S Tejon Street,Denver,80223,4.0,2.0,"2,078",538888,"$1,902",$0,N/A,39.6979986,-105.01247349,Denver 1,Goldrick,Grant,Abraham Lincoln
+376,21864 E 9th Place,Aurora,80018,3.0,3.0,"2,112",537485,"$6,688",$0,N/A,39.73022263,-104.73303059,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+377,6281 Genoa Street,Aurora,80019,4.0,3.0,"1,624",536000,"$4,239",$0,N/A,39.81095412,-104.7570553,School District 27-J,Second Creek,Otho Stuart,Prairie View
+378,743 S Quivas Street,Denver,80223,3.0,2.0,"1,323",535900,"$1,733",$0,N/A,39.70312579,-105.00772781,Denver 1,Goldrick,Grant,Abraham Lincoln
+379,10690 E 11th Avenue,Aurora,80010,7.0,4.0,"2,258",535000,"$2,353",$0,N/A,39.73263222,-104.86365227,Adams-Arapahoe 28J,Peoria,South,Aurora Central
+380,408 S Locust Street,Denver,80224,3.0,2.0,"1,816",535000,"$1,861",$0,N/A,39.70905526,-104.91385362,Denver 1,Denver Green,Denver Green,George Washington
+381,1765 W Florida,Denver,80223,3.0,2.0,"1,113",535000,"$1,350",$0,N/A,39.68953118,-105.00821682,Denver 1,Godsman,Grant,Abraham Lincoln
+382,2636 S Deframe Circle,Lakewood,80228,3.0,3.0,"1,352",535000,"$2,454",$0,N/A,39.67078459,-105.15282228,Jefferson County R-1,Rooney Ranch,Dunstan,Green Mountain
+383,4675 E Iliff Avenue,Denver,80222,3.0,2.0,"1,380",535000,"$1,960",$0,N/A,39.67502712,-104.93339473,Denver 1,University Park,Merrill,Thomas Jefferson
+384,332 Newark Street,Aurora,80010,3.0,3.0,"1,976",534900,"$2,607",$0,N/A,39.72053,-104.85577,Adams-Arapahoe 28J,Lansing,South,Aurora Central
+385,3300 S Emerson Street,Englewood,80113,2.0,1.0,896,534500,"$2,120",$0,N/A,39.65663807,-104.97686368,Englewood 1,Charles Hay,Englewood,Englewood
+386,5775 S Kline Street Unit 126,Littleton,80127,2.0,2.0,"1,460",534000,"$2,420",$137,Monthly,39.61334516,-105.11170637,Jefferson County R-1,West Ridge,Summit Ridge,Dakota Ridge
+387,21236 E Stanford Lane,Aurora,80015,3.0,2.0,"1,400",533950,$0,$65,Monthly,39.63445345,-104.74441993,Cherry Creek 5,Mountain Vista,Sky Vista,Eaglecrest
+388,2703 S Stuart Street,Denver,80236,3.0,3.0,"2,396",530000,"$2,040",$0,N/A,39.66745195,-105.04312182,Denver 1,Doull,Henry,John F. Kennedy
+389,20472 E 53rd Avenue,Denver,80249,2.0,3.0,"2,188",530000,"$3,784",$90,Monthly,39.791726,-104.749929,Denver 1,Omar D. Blair Charter School,McGlone,KIPP Denver Collegiate High School
+390,2680 W 66th Place,Denver,80221,4.0,3.0,"2,000",530000,"$2,516",$0,N/A,39.81688067,-105.02038829,Westminster Public Schools,F.M. Day,Scott Carpenter,Westminster
+391,9661 W Dumbarton Place,Denver,80123,3.0,3.0,"2,117",530000,"$1,948",$0,N/A,39.62694829,-105.106755,Denver 1,Grant Ranch E-8,Grant Ranch E-8,John F. Kennedy
+392,1169 Van Gordan,Lakewood,80401,4.0,2.0,"1,750",529900,"$1,506",$0,N/A,39.73410729,-105.13544236,Jefferson County R-1,Welchester,Bell,Golden
+393,725 Lansing Street,Aurora,80010,5.0,4.0,"2,368",529900,"$1,613",$0,N/A,39.72682649,-104.85990182,Adams-Arapahoe 28J,Peoria,South,Aurora Central
+394,6540 Van Gordon Court,Arvada,80004,4.0,2.0,"2,000",529000,"$2,690",$0,N/A,39.8153054,-105.13571879,Jefferson County R-1,Fremont,Oberon,Arvada West
+395,5374 Braun Street,Arvada,80002,3.0,2.0,"1,615",529000,"$3,281",$0,N/A,39.79388325,-105.15031602,Jefferson County R-1,Fairmount,Drake,Arvada West
+396,7231 Eaton Circle,Arvada,80003,3.0,3.0,"2,305",529000,"$1,460",$0,N/A,39.82754231,-105.06051362,Jefferson County R-1,Thomson,North Arvada,Arvada
+397,5218 S Shawnee Way,Aurora,80015,4.0,3.0,"1,875",527900,"$3,110",$612,Annually,39.62186,-104.72758,Cherry Creek 5,Antelope Ridge,Thunder Ridge,Eaglecrest
+398,2179 W Vassar Avenue,Englewood,80110,3.0,2.0,"1,900",526000,"$1,397",$0,N/A,39.67012933,-105.0128463,Englewood 1,Clayton,Englewood,Englewood
+399,2651 Lamar Street,Wheat Ridge,80214,3.0,1.0,"1,166",526000,"$2,249",$0,N/A,39.755792,-105.06802758,Jefferson County R-1,Lumberg,Jefferson,Jefferson
+400,4100 W 64th Avenue,Arvada,80003,5.0,2.0,"1,136",525000,"$4,796",$0,N/A,39.81264834,-105.04066,Westminster Public Schools,Tennyson Knolls,Scott Carpenter,Westminster
+401,565 Saulsbury Street,Lakewood,80226,3.0,2.0,"1,303",525000,"$1,980",$0,N/A,39.738028,-105.097049,Jefferson County R-1,Stein,Alameda Int'l,Alameda Int'l
+402,3002 S Holly Place,Denver,80222,3.0,2.0,"1,323",525000,"$2,782",$0,N/A,39.66426324,-104.91847933,Cherry Creek 5,Holly Hills,West,Cherry Creek
+403,6610 Quay Street,Arvada,80003,4.0,2.0,"1,776",525000,"$2,250",$0,N/A,39.81753353,-105.07288158,Jefferson County R-1,Secrest,North Arvada,Arvada
+404,5420 Perth Street,Denver,80249,4.0,3.0,"2,732",525000,"$3,477",$0,N/A,39.79511214,-104.73586404,Denver 1,Waller,Dr. Martin Luther King,DCIS at Montbello
+405,4913 S Field Court,Denver,80123,3.0,2.0,"1,567",525000,"$1,978",$0,N/A,39.62691342,-105.10017682,Denver 1,Grant Ranch E-8,Henry,John F. Kennedy
+406,2062 S Oakland Street,Aurora,80014,4.0,4.0,"3,014",525000,"$2,338",$0,N/A,39.67780867,-104.85005313,Cherry Creek 5,Ponderosa,Prairie,Overland
+407,5817 S Lisbon Way,Centennial,80015,4.0,3.0,"2,350",525000,"$2,590",$65,Monthly,39.61106142,-104.74565563,Cherry Creek 5,Timberline,Thunder Ridge,Eaglecrest
+408,1873 S Owens Street,Lakewood,80232,3.0,2.0,"1,636",525000,"$2,334",$0,N/A,39.68284175,-105.12162959,Jefferson County R-1,Kendrick Lakes,Carmody,Bear Creek
+409,2413 Harlan Street,Edgewater,80214,3.0,1.0,"1,290",525000,"$1,548",$0,N/A,39.75149695,-105.06297126,Jefferson County R-1,Edgewater,Jefferson,Jefferson
+410,5503 Espana Street,Denver,80249,3.0,3.0,"2,802",525000,"$6,319",$0,N/A,39.79436463,-104.76034742,Denver 1,Waller,DSST: Green Valley Ranch,Dr. Martin Luther King
+411,2817 Gray Street,Wheat Ridge,80214,2.0,1.0,872,525000,"$2,451",$0,N/A,39.75708627,-105.061794,Jefferson County R-1,Edgewater,Jefferson,Jefferson
+412,880 Irving Street,Denver,80204,4.0,2.0,"1,681",525000,"$1,699",$0,N/A,39.73083742,-105.0295961,Denver 1,Eagleton,Strive Lake,North
+413,7653 Newland Street,Arvada,80003,4.0,2.0,"1,848",525000,"$2,209",$0,N/A,39.83613718,-105.07093593,Jefferson County R-1,Thomson,North Arvada,Arvada
+414,10827 W Dumbarton Drive,Littleton,80127,3.0,3.0,"1,856",525000,"$2,151",$326,Monthly,39.62632884,-105.119885,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+415,2910 Pontiac Street,Denver,80207,2.0,2.0,"1,000",525000,"$1,550",$0,N/A,39.75864626,-104.90536512,Denver 1,Smith Renaissance,William (Bill) Roberts,Northfield
+416,1897 S Beech Street,Lakewood,80228,4.0,2.0,"1,676",525000,"$2,579",$0,N/A,39.68218603,-105.154004,Jefferson County R-1,Hutchinson,Dunstan,Green Mountain
+417,17546 E Baker Place,Aurora,80013,4.0,4.0,"2,214",525000,"$2,781",$75,Monthly,39.67071297,-104.78212542,Adams-Arapahoe 28J,Vassar,Columbia,Rangeview
+418,194 S Reed Court,Lakewood,80226,4.0,3.0,"1,251",524999,"$2,449",$0,N/A,39.71319537,-105.07471633,Jefferson County R-1,Stein,Alameda Int'l,Alameda Int'l
+419,1163 S Shoshone Street,Denver,80223,3.0,3.0,"1,020",524900,"$1,638",$0,N/A,39.69563047,-105.01098181,Denver 1,Godsman,Grant,Abraham Lincoln
+420,5460 S Windermere Street,Littleton,80120,5.0,3.0,"2,153",524900,"$3,192",$0,N/A,39.61768918,-105.00647246,Littleton 6,Field,Goddard,Littleton
+421,3862 N Madison Street,Denver,80205,3.0,2.0,955,524000,"$1,035",$0,N/A,39.77030342,-104.94611109,Denver 1,Harrington,Bruce Randolph,Manual
+422,11720 W 74th Avenue,Arvada,80005,3.0,2.0,"1,200",520000,"$1,991",$0,N/A,39.83012432,-105.1298015,Jefferson County R-1,Fremont,Oberon,Arvada West
+423,4355 Newland Street,Wheat Ridge,80033,3.0,1.0,"1,263",520000,"$2,210",$0,N/A,39.7756285,-105.07009783,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+424,3965 Ingalls Street,Wheat Ridge,80033,3.0,2.0,"1,497",520000,"$2,201",$0,N/A,39.77187262,-105.06462132,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+425,2548 S Genoa Court,Aurora,80013,3.0,3.0,"2,257",519900,"$2,663",$200,Annually,39.67148309,-104.75660833,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+426,11380 W Exposition Avenue,Lakewood,80226,3.0,2.0,"1,238",519900,"$1,228",$0,N/A,39.7035708,-105.12549465,Jefferson County R-1,Glennon Heights,Creighton,Lakewood
+427,7640 W 47th Avenue,Wheat Ridge,80033,3.0,1.0,"1,409",519900,"$1,781",$0,N/A,39.78135677,-105.08255709,Jefferson County R-1,Wilmore-Davis,Everitt,Wheat Ridge
+428,6125 W 78th Place,Arvada,80003,4.0,2.0,"1,560",519900,"$2,218",$0,N/A,39.83879398,-105.06363177,Jefferson County R-1,Thomson,North Arvada,Arvada
+429,2424 N Clay Street,Denver,80211,2.0,1.0,815,519000,"$1,909",$0,N/A,39.75294132,-105.02016354,Denver 1,Brown,Strive Lake,North
+430,4145 W 80th Place,Westminster,80031,3.0,2.0,"1,860",516000,"$1,770",$0,N/A,39.84270043,-105.04276575,Westminster Public Schools,Harris Park,Shaw Heights,Westminster
+431,3415 Arapahoe Street,Denver,80205,2.0,1.0,823,515000,"$1,852",$0,N/A,39.76506363,-104.97381836,Denver 1,Gilpin,Wyatt,Manual
+432,3045 S Fairfax Street,Denver,80222,3.0,2.0,"1,365",515000,"$1,906",$0,N/A,39.66301377,-104.9287971,Denver 1,Bradley,Hamilton,Thomas Jefferson
+433,18235 E Tanforan Place,Aurora,80015,4.0,2.0,"1,330",514900,"$1,892",$161,Annually,39.62984,-104.77581,Cherry Creek 5,Meadow Point,Falcon Creek,Grandview
+434,9541 W Cornell Place,Lakewood,80227,4.0,3.0,"1,920",514900,"$2,514",$0,N/A,39.66166,-105.10396,Jefferson County R-1,Bear Creek,Carmody,Bear Creek
+435,848 N Quatar Street,Aurora,80018,3.0,3.0,"1,885",510155,"$6,356",$0,N/A,39.72992861,-104.73342086,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+436,740 Julian Street,Denver,80204,3.0,2.0,"1,216",510000,"$1,819",$0,N/A,39.72852318,-105.03099449,Denver 1,Eagleton,Strive Lake,North
+437,7574 Heather Place,Denver,80221,3.0,3.0,"1,866",510000,"$2,120",$0,N/A,39.83412,-105.0166,Westminster Public Schools,Other,Ranum,Westminster
+438,11853 E Idaho Drive,Aurora,80012,4.0,3.0,"2,221",510000,"$2,138",$0,N/A,39.6904642,-104.85007003,Cherry Creek 5,Village East,Prairie,Overland
+439,870 Miller Street,Lakewood,80215,3.0,2.0,"1,252",509900,"$2,091",$0,N/A,39.73135157,-105.11356168,Jefferson County R-1,Eiber,Creighton,Lakewood
+440,6925 W Colorado Drive,Lakewood,80232,4.0,2.0,"2,056",509000,"$1,509",$0,N/A,39.68516768,-105.07356542,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
+441,2826 S Glencoe Street,Denver,80222,3.0,1.0,"1,224",509000,"$2,124",$0,N/A,39.66598928,-104.926596,Denver 1,Bradley,Hamilton,Thomas Jefferson
+442,7181 Van Gordon Street,Arvada,80004,3.0,3.0,"2,009",505000,"$2,780",$0,N/A,39.82629626,-105.136336,Jefferson County R-1,Fremont,Oberon,Arvada West
+443,7161 Van Gordon Street,Arvada,80004,4.0,2.0,"1,666",504900,"$2,362",$0,N/A,39.82606433,-105.1362743,Jefferson County R-1,Fremont,Oberon,Arvada West
+444,2660 S High Street,Denver,80210,2.0,1.0,"1,112",500000,"$1,727",$0,N/A,39.66830945,-104.96495347,Denver 1,Asbury,Grant,South
+445,3025 S Ingalls Way,Denver,80227,4.0,3.0,"2,048",500000,"$2,095",$0,N/A,39.65999081,-105.0642621,Denver 1,Traylor Academy,Bear Valley International,John F. Kennedy
+446,6201 W 29th Avenue,Wheat Ridge,80214,2.0,1.0,952,500000,"$1,862",$0,N/A,39.75873189,-105.0652584,Jefferson County R-1,Lumberg,Jefferson,Jefferson
+447,5200 E 12th Avenue,Denver,80220,3.0,1.0,903,500000,"$2,140",$0,N/A,39.73454637,-104.92662067,Denver 1,Palmer,Hill,George Washington
+448,1201 Union Street,Lakewood,80401,3.0,1.0,"1,121",500000,"$1,734",$0,N/A,39.73426019,-105.13328641,Jefferson County R-1,Welchester,Bell,Golden
+449,2701 W Yale Avenue,Denver,80219,3.0,2.0,"1,077",500000,"$1,960",$0,N/A,39.66717638,-105.02046042,Denver 1,College View,Henry,Abraham Lincoln
+450,18899 E Kent Place,Aurora,80013,3.0,3.0,"2,271",500000,"$1,961",$0,N/A,39.64899828,-104.768036,Cherry Creek 5,Sunrise,Horizon,Eaglecrest
+451,2040 Valley View Drive,Denver,80221,9.0,2.0,972,500000,"$2,692",$0,N/A,39.84133687,-105.01165897,Westminster Public Schools,Metz,Ranum,Westminster
+452,1885 S Patton Court,Denver,80219,3.0,2.0,"2,219",500000,"$1,881",$0,N/A,39.68243128,-105.038518,Denver 1,Johnson,Kepner,Abraham Lincoln
+453,1861 S Teller Street,Lakewood,80232,3.0,2.0,"1,631",500000,"$1,978",$0,N/A,39.68374928,-105.077335,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
+454,22281 E Navarro Place,Aurora,80018,3.0,3.0,"1,959",499900,"$2,129",$150,Quarterly,39.64288485,-104.7259278,Cherry Creek 5,Dakota Valley,Sky Vista,Eaglecrest
+455,22049 E Belleview Place,Aurora,80015,4.0,3.0,"1,875",499900,"$3,164",$306,Semi-Annually,39.62378441,-104.73104405,Cherry Creek 5,Antelope Ridge,Thunder Ridge,Eaglecrest
+456,3841 N Harrison Street,Denver,80205,3.0,2.0,"1,336",499900,"$2,023",$0,N/A,39.7699135,-104.94193541,Denver 1,Harrington,DSST: Cole,Manual
+457,9834 W 53rd Place,Arvada,80002,3.0,2.0,"1,715",499900,"$2,860",$0,N/A,39.79234315,-105.10768527,Jefferson County R-1,Arvada K-8,Arvada K-8,Arvada
+458,3220 W Nevada Place,Denver,80219,5.0,4.0,"2,266",499900,"$2,020",$0,N/A,39.7100826,-105.02942137,Denver 1,Munroe,Kepner,Abraham Lincoln
+459,11396 W Kentucky Drive,Lakewood,80226,4.0,2.0,"1,771",499900,"$2,084",$0,N/A,39.69908515,-105.12580627,Jefferson County R-1,Glennon Heights,Creighton,Lakewood
+460,565 S Dale Court,Denver,80219,3.0,2.0,"1,602",499899,"$1,338",$0,N/A,39.70623197,-105.02186005,Denver 1,Munroe,Kepner,West
+461,3146 W Florida Avenue,Denver,80219,6.0,3.0,"2,714",499888,"$1,747",$0,N/A,39.68930413,-105.02705389,Denver 1,Cms Community,Grant,Abraham Lincoln
+462,21874 E 9th Place,Aurora,80018,3.0,3.0,"1,577",499085,"$6,200",$0,N/A,39.73011463,-104.73304668,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+463,2517 S Genoa Street,Aurora,80013,5.0,3.0,"1,873",499000,"$2,750",$210,Annually,39.67273467,-104.75715471,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+464,1332 Poplar Street,Denver,80220,2.0,1.0,"1,092",499000,"$2,118",$0,N/A,39.73806326,-104.90431101,Denver 1,Montclair,Hill,George Washington
+465,10722 W Dumbarton Circle,Littleton,80127,2.0,2.0,"1,735",499000,"$2,225",$374,Monthly,39.62664735,-105.11937936,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+466,1350 Lipan Street,Denver,80204,3.0,1.0,"1,361",499000,"$2,016",$0,N/A,39.73801512,-105.0017549,Denver 1,Greenlee,Grant,West
+467,18022 E Kepner Drive,Aurora,80017,4.0,2.0,"1,620",498000,"$1,446",$0,N/A,39.70073502,-104.77712669,Adams-Arapahoe 28J,Arkansas,Mrachek,Gateway
+468,30 Chase Street,Lakewood,80026,4.0,2.0,"1,800",498000,"$2,614",$0,N/A,39.71781713,-105.05654501,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+469,3442 S Patton Way,Denver,80236,5.0,3.0,"2,267",497900,"$1,271",$0,N/A,39.65492157,-105.03972888,Denver 1,Sabin,Slavens E-8,John F. Kennedy
+470,4027 W 44th Avenue,Denver,80212,3.0,1.0,796,497500,"$2,080",$0,N/A,39.77680757,-105.03995527,Denver 1,Centennial,Strive Sunnyside,North
+471,19011 E Linvale Place,Aurora,80013,3.0,3.0,"1,783",496900,"$1,796",$0,N/A,39.66726773,-104.76665462,Cherry Creek 5,Arrowhead,Horizon,Smoky Hill
+472,21904 E 9th Place,Aurora,80018,3.0,3.0,"1,577",496085,"$6,170",$0,N/A,39.72979798,-104.73301895,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+473,19177 E Grand Circle,Aurora,80015,3.0,3.0,"1,864",495000,"$1,972",$106,Semi-Annually,39.6260427,-104.76527279,Cherry Creek 5,Peakview,Thunder Ridge,Eaglecrest
+474,20858 E Progress Avenue,Centennial,80015,3.0,3.0,"1,910",495000,"$2,763",$70,Monthly,39.62170595,-104.74605691,Cherry Creek 5,Timberline,Thunder Ridge,Eaglecrest
+475,2460 S Osceola Street,Denver,80219,2.0,1.0,"1,041",495000,"$1,772",$0,N/A,39.67331912,-105.03748803,Denver 1,Doull,Henry,Abraham Lincoln
+476,8103 Conifer Road,Denver,80221,4.0,3.0,"2,860",495000,"$2,728",$0,N/A,39.8437099,-104.99187753,Adams 12 5 Star Schl,Coronado Hills,Thornton,Thornton
+477,7130 W Iowa Avenue,Lakewood,80232,5.0,3.0,"2,080",495000,"$2,183",$0,N/A,39.68907,-105.076043,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
+478,5168 Tennyson Street,Denver,80212,2.0,1.0,"1,350",495000,"$2,100",$0,N/A,39.79052182,-105.04354326,Denver 1,Centennial,Bryant-Webster,North
+479,4388 Garland Street,Wheat Ridge,80033,3.0,2.0,"1,276",495000,"$1,972",$0,N/A,39.77754326,-105.10169345,Jefferson County R-1,Pennington,Everitt,Wheat Ridge
+480,1284 S Newland Court,Lakewood,80232,3.0,2.0,"1,096",495000,"$2,046",$0,N/A,39.69278128,-105.069963,Jefferson County R-1,Lasley,Alameda Int'l,Alameda Int'l
+481,6825 Martin Luther King Boulevard,Denver,80207,4.0,2.0,"1,934",494999,"$1,152",$0,N/A,39.76218901,-104.9085009,Denver 1,Smith Renaissance,DSST: Conservatory Green,Northfield
+482,828 N Quatar Street,Aurora,80018,3.0,3.0,"1,577",493085,"$6,133",$0,N/A,39.72970111,-104.7334155,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+483,9644 W Grand Avenue,Denver,80123,2.0,2.0,"1,695",492000,"$1,942",$0,N/A,39.62583929,-105.106106,Denver 1,Grant Ranch E-8,Grant Ranch E-8,John F. Kennedy
+484,21884 E 9th Place,Aurora,80018,3.0,3.0,"1,561",490750,"$6,103",$0,N/A,39.73000338,-104.73304668,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+485,4920 Ingalls Street,Wheat Ridge,80033,4.0,2.0,"1,742",490000,"$1,646",$0,N/A,39.7857858,-105.06352154,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+486,3400 W Jewell Avenue,Denver,80219,2.0,1.0,"1,106",490000,"$1,476",$0,N/A,39.68200602,-105.03112327,Denver 1,Johnson,Kepner,Abraham Lincoln
+487,224 Tucson Street,Aurora,80011,5.0,3.0,"2,484",490000,"$2,557",$0,N/A,39.7195357,-104.83541946,Adams-Arapahoe 28J,Lyn Knoll,South,Aurora Central
+488,5860 S Moore Street,Littleton,80127,3.0,2.0,"1,350",489900,"$2,387",$0,N/A,39.61181191,-105.11644807,Jefferson County R-1,West Ridge,Summit Ridge,Dakota Ridge
+489,2 Zenobia Street,Denver,80219,3.0,1.0,"1,642",489900,"$1,687",$0,N/A,39.71681663,-105.05156143,Denver 1,Newlon,West Leadership,West
+490,505 S Raleigh Street,Denver,80219,4.0,2.0,"1,826",489500,"$1,683",$0,N/A,39.70775576,-105.04225629,Denver 1,Knapp,Kepner,West
+491,7020 W 39th Avenue,Wheat Ridge,80033,2.0,1.0,895,489000,"$1,678",$0,N/A,39.77058147,-105.07503973,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+492,823 N Riviera Street,Aurora,80018,3.0,3.0,"1,561",488105,"$6,070",$0,N/A,39.72981989,-104.73208178,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+493,838 N Quatar Street,Aurora,80018,3.0,3.0,"1,561",487325,"$6,061",$0,N/A,39.72981236,-104.73344232,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Vista Peak
+494,4165 S Lipan Street,Englewood,80110,3.0,1.0,"1,152",486000,"$1,815",$0,N/A,39.64099043,-105.0026664,Englewood 1,Clayton,Englewood,Englewood
+495,7101 Wolff Street,Westminster,80030,5.0,2.0,"2,205",485000,"$2,426",$0,N/A,39.82559316,-105.0482653,Westminster Public Schools,Harris Park,Ranum,Westminster
+496,19389 E 41st Place,Denver,80249,3.0,2.0,"1,826",485000,"$1,499",$0,N/A,39.77441449,-104.7604495,Denver 1,Marrama,McGlone,KIPP Denver Collegiate High School
+497,4665 Milwaukee Street,Denver,80216,4.0,2.0,"1,623",485000,"$1,446",$0,N/A,39.78151071,-104.95208581,Denver 1,Swansea,Whittier  E-8,Manual
+498,3870 Newman Street,Wheat Ridge,80033,3.0,1.0,870,485000,"$1,938",$0,N/A,39.77056592,-105.11791755,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+499,13792 E 24th Avenue,Aurora,80011,6.0,2.0,"2,352",485000,"$1,232",$0,N/A,39.75166355,-104.8247869,Adams-Arapahoe 28J,Sable,North,Hinkley
+500,1821 S Irving Street,Denver,80219,5.0,2.0,"2,074",485000,"$1,600",$0,N/A,39.68441234,-105.03006441,Denver 1,Johnson,Grant,Abraham Lincoln
+501,7584 Kendall Street,Arvada,80003,4.0,2.0,"1,583",484999,"$1,600",$0,N/A,39.83403247,-105.0662003,Jefferson County R-1,Thomson,North Arvada,Arvada
+502,15640 E Hamilton Place,Aurora,80013,5.0,3.0,"2,419",484999,"$2,239",$0,N/A,39.65340928,-104.80602491,Adams-Arapahoe 28J,Dartmouth,Columbia,Rangeview
+503,8077 Bryant Street,Westminster,80031,3.0,3.0,"1,504",480000,"$2,590",$43,Monthly,39.84471122,-105.01950563,Westminster Public Schools,Fairview,Ranum,Westminster
+504,2561 W Cornell Avenue,Denver,80236,5.0,2.0,"2,027",480000,"$1,695",$0,N/A,39.66101553,-105.01758805,Denver 1,College View,Henry,Abraham Lincoln
+505,2831 S Truckee Street,Aurora,80013,4.0,4.0,"2,158",480000,"$2,303",$0,N/A,39.66359943,-104.7819264,Adams-Arapahoe 28J,Dalton,Columbia,Rangeview
+506,7653 Webster Way,Arvada,80003,4.0,2.0,"1,858",480000,"$1,977",$0,N/A,39.83638326,-105.08117,Jefferson County R-1,Hackberry Hill,North Arvada,Arvada
+507,4245 S Clarkson Street,Englewood,80113,2.0,1.0,"1,202",479500,"$1,509",$0,N/A,39.63956147,-104.97877547,Englewood 1,Cherrelyn,Englewood,Englewood
+508,7520 Xavier Street,Westminster,80030,3.0,2.0,864,475000,"$1,516",$0,N/A,39.83329951,-105.04915039,Westminster Public Schools,Harris Park,Shaw Heights,Westminster
+509,1642 S Everett Street,Lakewood,80232,4.0,2.0,"2,378",475000,"$2,268",$0,N/A,39.68637932,-105.09663697,Jefferson County R-1,Patterson,Alameda Int'l,Green Mountain
+510,815 S Umatilla Way,Denver,80223,3.0,1.0,"1,526",475000,"$1,756",$0,N/A,39.70171957,-105.01244891,Denver 1,Goldrick,Grant,Abraham Lincoln
+511,2425 W Bates Avenue,Denver,80236,3.0,2.0,"2,022",475000,"$1,692",$0,N/A,39.66393828,-105.01631753,Denver 1,College View,Bear Valley International,Abraham Lincoln
+512,6718 W 79th Circle,Arvada,80003,3.0,2.0,"2,288",475000,"$2,343",$0,N/A,39.8407884,-105.07204544,Jefferson County R-1,Thomson,North Arvada,Arvada
+513,5077 Duluth Court,Denver,80239,4.0,4.0,"2,482",475000,"$2,205",$0,N/A,39.78535128,-104.82006164,Denver 1,Greenwood,McGlone,Dr. Martin Luther King
+514,3833 Quay Street,Wheat Ridge,80033,3.0,2.0,"1,764",475000,"$2,491",$0,N/A,39.76995599,-105.07356864,Jefferson County R-1,Stevens,Everitt,Wheat Ridge
+515,680 S Quivas Street,Denver,80223,3.0,1.0,"1,302",475000,"$1,711",$0,N/A,39.70413028,-105.007114,Denver 1,Goldrick,Grant,Abraham Lincoln
+516,15934 E Linvale Avenue,Aurora,80013,3.0,2.0,"1,296",475000,"$2,032",$0,N/A,39.66683704,-104.80248737,Adams-Arapahoe 28J,Dartmouth,Columbia,Rangeview
+517,647 Winona Court,Denver,80204,5.0,2.0,"2,200",474970,"$1,196",$0,N/A,39.72754487,-105.04787097,Denver 1,Cowell,Strive Lake,North
+518,2525 W Wesley Avenue,Denver,80219,2.0,2.0,"1,142",474500,"$2,840",$0,N/A,39.67367783,-105.01731882,Denver 1,College View,Slavens E-8,Abraham Lincoln
+519,11705 W Tulane Drive,Morrison,80465,3.0,2.0,"1,473",470000,"$2,438",$145,Quarterly,39.63422912,-105.13000573,Jefferson County R-1,Peiffer,Carmody,Bear Creek
+520,1290 Boston Street,Aurora,80010,5.0,2.0,"1,948",470000,"$1,583",$0,N/A,39.73628582,-104.87968719,Adams-Arapahoe 28J,Boston K-8,Boston K-8,Aurora Central
+521,15371 E 8th Avenue,Aurora,80011,5.0,3.0,"2,593",470000,"$2,605",$0,N/A,39.72992941,-104.80818559,Adams-Arapahoe 28J,Laredo,East,Hinkley
+522,300 S Pierce Street,Lakewood,80226,3.0,2.0,"1,323",470000,"$2,040",$0,N/A,39.71057993,-105.0717766,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+523,8121 Tennyson Street,Westminster,80031,4.0,2.0,"2,122",469900,"$2,429",$0,N/A,39.84436082,-105.04794554,Westminster Public Schools,Harris Park,Shaw Heights,Westminster
+524,5052 Wheeling Way,Denver,80239,4.0,2.0,"1,761",469900,,$0,N/A,39.78887,-104.83316,Denver 1,Maxwell,Strive Federal,Montbello
+525,18884 E Cornell Avenue,Aurora,80013,3.0,3.0,"1,648",469000,"$1,250",$0,N/A,39.6605786,-104.7688989,Cherry Creek 5,Arrowhead,Horizon,Eaglecrest
+526,215 S Knox Court,Denver,80219,3.0,1.0,"1,307",466000,"$1,471",$0,N/A,39.71295639,-105.03267525,Denver 1,Barnum,Grant,West
+527,16010 E 55th Avenue,Denver,80239,3.0,3.0,"2,040",465000,"$1,895",$40,Monthly,39.79435001,-104.80006746,Denver 1,SOAR at Green Valley Ranch,McGlone,Noel Community Arts School
+528,8069 Decatur Court,Westminster,80031,2.0,3.0,"1,890",464900,"$2,546",$43,Monthly,39.84295,-105.02249,Westminster Public Schools,Other,Ranum,Westminster
+529,2644 S Newton Street,Denver,80219,3.0,1.0,"1,383",460000,"$2,068",$0,N/A,39.66915382,-105.0365277,Denver 1,Doull,Henry,Abraham Lincoln
+530,3065 Holly Street,Denver,80207,2.0,2.0,"1,234",460000,"$1,407",$0,N/A,39.76144394,-104.92261136,Denver 1,Park Hill,DSST: Conservatory Green,East
+531,16691 E Gunnison Place,Aurora,80017,3.0,2.0,"1,664",460000,"$2,573",$0,N/A,39.68591826,-104.79589792,Adams-Arapahoe 28J,Iowa,Mrachek,Gateway
+532,7733 Navajo Street,Denver,80221,3.0,2.0,"1,808",460000,"$1,951",$0,N/A,39.83670505,-105.00452197,Westminster Public Schools,Sherrelwood,Ranum,Westminster
+533,627 W Asbury Avenue,Denver,80223,2.0,1.0,616,459999,"$1,067",$0,N/A,39.68073396,-104.99555527,Denver 1,McKinley-Thatcher,Grant,South
+534,20638 E Kenyon Place,Aurora,80013,3.0,2.0,"1,514",459900,"$2,375",$99,Quarterly,39.64883921,-104.74767469,Cherry Creek 5,Dakota Valley,Sky Vista,Eaglecrest
+535,3902 Jason Street,Denver,80211,2.0,1.0,749,459900,"$1,424",$0,N/A,39.77062645,-104.99890587,Denver 1,Trevista at Horace Mann,Strive Sunnyside,North
+536,1970 Espana Way,Aurora,80011,3.0,3.0,"1,566",459000,"$2,944",$42,Monthly,39.74666949,-104.76016737,Adams-Arapahoe 28J,Clyde Miller,Clyde Miller,Vista Peak
+537,812 Raleigh Street,Denver,80204,3.0,1.0,836,456900,"$1,573",$0,N/A,39.72962188,-105.04129718,Denver 1,Cowell,Strive Lake,North
+538,3208 Scranton Street,Aurora,80011,5.0,2.0,"1,950",456000,"$2,667",$0,N/A,39.76171376,-104.83896846,Adams-Arapahoe 28J,Park Lane,North,Hinkley
+539,16512 E Princeton Place,Aurora,80013,4.0,2.0,"1,972",455000,"$1,733",$0,N/A,39.64022611,-104.7956025,Cherry Creek 5,Mission Viejo,Laredo,Smoky Hill
+540,12265 E 13th Avenue,Aurora,80011,3.0,2.0,"1,401",455000,"$2,048",$0,N/A,39.73631674,-104.84538546,Adams-Arapahoe 28J,Vaughn,South,Aurora Central
+541,1654 S Olathe Street,Aurora,80017,3.0,2.0,"2,192",455000,"$2,268",$0,N/A,39.68632928,-104.792927,Adams-Arapahoe 28J,Iowa,Mrachek,Gateway
+542,2405 Lee Street,Lakewood,80215,3.0,1.0,"1,060",454900,"$2,382",$0,N/A,39.75078187,-105.11221908,Jefferson County R-1,Vivian,Everitt,Wheat Ridge
+543,19270 E 22nd Drive,Aurora,80011,4.0,2.0,"1,670",450000,"$2,738",$0,N/A,39.74801075,-104.76367248,Adams-Arapahoe 28J,Clyde Miller,East,Hinkley
+544,2627 S Lowell Boulevard,Denver,80219,4.0,2.0,"1,210",450000,"$1,669",$0,N/A,39.6696813,-105.03524613,Denver 1,Doull,Henry,Abraham Lincoln
+545,61 S Ames Street,Lakewood,80226,3.0,2.0,"1,040",450000,"$2,188",$0,N/A,39.71578901,-105.05478164,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+546,361 El Paso Court,Denver,80221,4.0,3.0,"2,850",450000,"$2,341",$0,N/A,39.84051471,-104.99166873,Adams 12 5 Star Schl,Coronado Hills,Thornton,Thornton
+547,830 S Harlan Street,Lakewood,80226,3.0,3.0,"1,598",450000,"$2,484",$0,N/A,39.70140789,-105.06224881,Jefferson County R-1,Deane,Alameda Int'l,Alameda Int'l
+548,4206 W Vassar Avenue,Denver,80219,3.0,2.0,"1,115",450000,"$1,754",$0,N/A,39.66990575,-105.04198,Denver 1,Doull,Henry,John F. Kennedy
+549,1465 S King Court,Denver,80219,4.0,2.0,"1,804",450000,"$1,544",$0,N/A,39.69002399,-105.03398863,Denver 1,Cms Community,Grant,Abraham Lincoln
+550,440 S Victor Way,Aurora,80012,4.0,2.0,"1,487",449900,"$1,449",$0,N/A,39.70292229,-104.83526668,Adams-Arapahoe 28J,Wheeling,Aurora Hills,Gateway
+551,1816 S Nucla Street,Aurora,80017,4.0,2.0,"1,852",449900,"$2,358",$0,N/A,39.68377407,-104.79411171,Adams-Arapahoe 28J,Iowa,Mrachek,Gateway
+552,2469 S Kittredge Way,Aurora,80013,4.0,2.0,"1,690",449900,"$2,317",$0,N/A,39.67198703,-104.80311854,Adams-Arapahoe 28J,Yale,Columbia,Rangeview
+553,19060 E 22nd Place,Aurora,80011,3.0,4.0,"1,947",449500,"$2,738",$0,N/A,39.75028269,-104.76581018,Adams-Arapahoe 28J,Clyde Miller,Clyde Miller,Vista Peak
+554,5190 Tabor Street,Wheat Ridge,80033,3.0,2.0,"1,418",449000,"$2,371",$0,N/A,39.79079502,-105.13036681,Jefferson County R-1,Vanderhoof,Drake,Arvada West
+555,4175 W Custer Place,Denver,80219,4.0,2.0,"1,628",449000,"$1,466",$0,N/A,39.70702612,-105.04290062,Denver 1,Knapp,Grant,West
+556,1284 Ember Street,Denver,80221,4.0,2.0,"1,850",445000,"$1,767",$0,N/A,39.83816524,-105.00110973,Westminster Public Schools,Sherrelwood,Ranum,Westminster
+557,1065 S Osceola Street,Denver,80219,3.0,2.0,"1,281",445000,"$1,574",$0,N/A,39.69731954,-105.03802744,Denver 1,Castro,Strive Westwood,Abraham Lincoln
+558,3081 S Laredo Circle,Aurora,80013,2.0,2.0,"1,552",445000,"$2,385",$0,N/A,39.66035728,-104.80026,Adams-Arapahoe 28J,Dartmouth,Columbia,Rangeview
+559,1503 S Tucson Street,Aurora,80012,3.0,2.0,"1,456",444900,"$2,304",$0,N/A,39.68789858,-104.84000336,Adams-Arapahoe 28J,Wheeling,Aurora Hills,Gateway
+560,1255 S Biscay Street,Aurora,80017,3.0,2.0,"1,284",444900,"$2,306",$0,N/A,39.69369,-104.768,Adams-Arapahoe 28J,Vista Peak,Vista Peak,Rangeview
+561,7861 Valley View Drive,Denver,80221,3.0,3.0,"2,461",444000,"$2,116",$0,N/A,39.83951351,-105.02192862,Westminster Public Schools,Fairview,Ranum,Westminster
+562,450 S Decatur Street,Denver,80219,2.0,1.0,"2,002",444000,"$1,691",$0,N/A,39.70833849,-105.02243843,Denver 1,Munroe,Kepner,West
+563,2590 S Irving Street,Denver,80219,4.0,1.0,"1,115",441875,"$1,586",$0,N/A,39.67132138,-105.02951246,Denver 1,Gust,Kunsmiller Creative Arts Academy,Abraham Lincoln
+564,4619 Pennsylvania Street,Denver,80216,4.0,1.0,660,440000,"$1,410",$0,N/A,39.78053226,-104.98140569,Denver 1,Garden Place,Whittier  E-8,Manual
+565,931 Downing Way,Denver,80229,3.0,3.0,"2,117",440000,"$1,882",$0,N/A,39.84162114,-104.97610285,Adams 12 5 Star Schl,Coronado Hills,Thornton,Thornton
+566,4830 Estes Street,Arvada,80002,2.0,1.0,858,440000,"$1,806",$0,N/A,39.78470363,-105.09495153,Jefferson County R-1,Arvada K-8,Arvada K-8,Arvada
+567,4076 S Richfield Street,Aurora,80013,3.0,3.0,"1,550",440000,"$1,459",$0,N/A,39.64252021,-104.78740422,Cherry Creek 5,Cimarron,Horizon,Smoky Hill
+568,26 S King Street,Denver,80219,3.0,2.0,"1,067",440000,"$1,521",$0,N/A,39.71595567,-105.03340076,Denver 1,Newlon,Kepner,West
+569,12154 E Virginia Drive,Aurora,80012,5.0,2.0,"2,088",440000,"$2,336",$0,N/A,39.70643886,-104.84582925,Adams-Arapahoe 28J,Virginia Court,Aurora Hills,Gateway
+570,6835 Reno Drive,Arvada,80002,2.0,1.0,976,439000,"$1,003",$0,N/A,39.79781784,-105.07221327,Jefferson County R-1,Secrest,Arvada K-8,Arvada
+571,903 S Oakland Court,Aurora,80012,4.0,2.0,"1,086",435900,"$1,710",$0,N/A,39.70089387,-104.85059253,Cherry Creek 5,Highline Community,Prairie,Overland
+572,5001 Titan Way,Denver,80239,3.0,2.0,"1,762",435000,"$1,594",$0,N/A,39.787599,-104.8390548,Denver 1,Maxwell,Noel Community Arts School,High Tech EC
+573,1424 S Biscay Way,Aurora,80017,4.0,2.0,"1,616",435000,"$2,153",$0,N/A,39.69014774,-104.76809607,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+574,1338 W Alaska Place,Denver,80223,4.0,1.0,"1,339",434900,"$1,719",$0,N/A,39.70823994,-105.00594888,Denver 1,Valverde,Grant,West
+575,5181 Decatur Street,Denver,80221,2.0,1.0,791,430000,"$1,517",$0,N/A,39.79077163,-105.02190229,Denver 1,Beach Court,Strive Sunnyside,North
+576,3179 Xanadu Street,Aurora,80011,3.0,2.0,"1,580",429900,"$1,841",$0,N/A,39.7602537,-104.82929413,Adams-Arapahoe 28J,Park Lane,North,Hinkley
+577,3081 S Glencoe Street,Denver,80222,3.0,1.0,858,429000,"$1,632",$0,N/A,39.66213156,-104.92514451,Denver 1,Bradley,Hamilton,Thomas Jefferson
+579,1224 Valentia Street,Denver,80220,3.0,1.0,"1,500",428000,"$1,560",$0,N/A,39.73617988,-104.89130041,Denver 1,Montclair,Hill,George Washington
+580,3073 Ursula Street,Aurora,80011,3.0,2.0,"1,764",425900,"$2,772",$0,N/A,39.75932,-104.83528,Adams-Arapahoe 28J,Park Lane,North,Hinkley
+581,1045 Sable Boulevard,Aurora,80011,3.0,3.0,"1,684",425000,"$2,637",$0,N/A,39.73107,-104.81968,Adams-Arapahoe 28J,Elkhart,East,Hinkley
+582,1045 Sable Boulevard,Aurora,80011,3.0,3.0,"1,692",425000,"$2,637",$0,N/A,39.73106097,-104.81966808,Adams-Arapahoe 28J,Elkhart,East,Hinkley
+583,5538 Tulsa Way,Denver,80239,4.0,2.0,"1,726",425000,"$1,618",$0,N/A,39.79451205,-104.83642688,Denver 1,Amesse,Noel Community Arts School,High Tech EC
+584,2121 W 80th Avenue,Denver,80221,3.0,3.0,"1,944",425000,"$1,833",$0,N/A,39.84192939,-105.01268365,Westminster Public Schools,Metz,Ranum,Westminster
+585,1691 S Cathay Street,Aurora,80017,4.0,2.0,"1,464",425000,"$2,259",$0,N/A,39.68626079,-104.76626645,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+586,1140 S Tennyson Street,Denver,80219,2.0,1.0,770,425000,"$1,457",$0,N/A,39.69590453,-105.04345819,Denver 1,Force,Compass Academy,John F. Kennedy
+587,2573 W 74 Avenue,Westminster,80030,4.0,2.0,"2,214",425000,"$2,595",$0,N/A,39.83099926,-105.01730164,Westminster Public Schools,Skyline Vista,Scott Carpenter,Westminster
+588,4349 S Clarkson Street,Englewood,80113,2.0,1.0,788,425000,"$1,586",$0,N/A,39.6360154,-104.97887566,Englewood 1,Cherrelyn,Englewood,Englewood
+589,6710 Monaco Street,Commerce City,80022,2.0,1.0,"1,260",425000,"$1,323",$0,N/A,39.81837116,-104.91251294,Adams 14,Monaco,Adams City,Adams City
+590,11501 E Cornell Circle,Aurora,80014,4.0,4.0,"2,263",425000,"$1,528",$247,Monthly,39.66226654,-104.85414171,Cherry Creek 5,Polton,Prairie,Overland
+591,1931 Fulton Street,Aurora,80010,3.0,1.0,970,425000,"$2,383",$0,N/A,39.74636453,-104.87086815,Adams-Arapahoe 28J,Fletcher,Aurora West,Aurora Central
+592,398 S Raleigh Street,Denver,80219,4.0,2.0,"2,148",425000,"$1,563",$0,N/A,39.70959264,-105.04186566,Denver 1,Knapp,Grant,West
+593,3135 S Logan Street,Englewood,80113,2.0,1.0,735,424444,"$1,801",$0,N/A,39.65979968,-104.98270656,Englewood 1,Charles Hay,Englewood,Englewood
+594,11111 E Montview Boulevard,Aurora,80010,3.0,1.0,"1,040",423000,"$2,536",$0,N/A,39.74782846,-104.85786163,Adams-Arapahoe 28J,Montview,North,Aurora Central
+595,1235 Wabash Street,Denver,80220,2.0,1.0,726,420000,"$1,556",$0,N/A,39.73620971,-104.88967922,Denver 1,Montclair,Hill,George Washington
+596,1541 S Biscay Court,Aurora,80017,4.0,2.0,"1,633",420000,"$2,117",$0,N/A,39.68776235,-104.76942837,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+597,1360 Dallas Street,Aurora,80010,3.0,1.0,"1,208",420000,"$1,954",$0,N/A,39.73757405,-104.8761286,Adams-Arapahoe 28J,Boston K-8,Boston K-8,Aurora Central
+598,4746 Carr Street,Wheat Ridge,80033,3.0,1.0,955,420000,"$1,935",$0,N/A,39.78246852,-105.09111737,Jefferson County R-1,Pennington,Everitt,Wheat Ridge
+600,5403 Tucson Street,Denver,80239,3.0,3.0,"2,430",416000,"$1,038",$0,N/A,39.79267627,-104.840239,Denver 1,Amesse,Dr. Martin Luther King,Dr. Martin Luther King
+601,10530 E 10th Avenue,Aurora,80010,3.0,1.0,"1,680",415000,"$2,332",$0,N/A,39.73080155,-104.86492677,Adams-Arapahoe 28J,Peoria,South,Aurora Central
+602,780 Cuchara Street,Denver,80221,4.0,2.0,"1,950",415000,"$1,488",$0,N/A,39.83154712,-104.99660679,Westminster Public Schools,Sherrelwood,Ranum,Westminster
+603,4842 Steele Street,Denver,80216,3.0,2.0,"1,320",415000,"$1,272",$0,N/A,39.78451528,-104.94940189,Denver 1,Swansea,Whittier  E-8,Manual
+604,1417 S Biscay Way,Aurora,80017,4.0,2.0,"1,200",413920,"$1,756",$0,N/A,39.69097654,-104.7674509,Adams-Arapahoe 28J,Side Creek,Mrachek,Rangeview
+605,5551 Worchester Street,Denver,80239,4.0,2.0,"1,596",410000,"$1,534",$0,N/A,39.79827044,-104.8309865,Denver 1,Amesse,McGlone,Noel Community Arts School
+606,3894 Orleans Court,Denver,80249,2.0,3.0,"1,143",410000,"$1,992",$0,N/A,39.77029545,-104.73723284,Denver 1,Green Valley,Dr. Martin Luther King,Dr. Martin Luther King
+607,5733 W 76th Drive,Arvada,80003,2.0,1.0,817,409900,"$1,408",$0,N/A,39.83622582,-105.05876454,Jefferson County R-1,Thomson,North Arvada,Arvada
+608,3215 W Exposition Avenue,Denver,80219,3.0,1.0,"1,060",409000,"$1,158",$0,N/A,39.7041863,-105.02870924,Denver 1,Munroe,Strive Westwood,West
+609,5643 W 76th Drive,Arvada,80003,2.0,2.0,975,404000,"$1,633",$0,N/A,39.83616026,-105.057735,Jefferson County R-1,Thomson,North Arvada,Arvada
+610,3391 S Irving Street,Englewood,80110,2.0,1.0,910,400000,"$1,648",$0,N/A,39.65606638,-105.03007439,Sheridan 2,Sheridan,Sheridan,Sheridan
+611,4380 Jericho Street,Denver,80249,3.0,1.0,"1,138",400000,"$1,966",$0,N/A,39.77705048,-104.74876556,Denver 1,Green Valley,Dr. Martin Luther King,Noel Community Arts School
+612,5238 Stuart Street,Denver,80212,2.0,1.0,792,400000,"$2,419",$0,N/A,39.79212461,-105.04249836,Westminster Public Schools,Tennyson Knolls,Scott Carpenter,Westminster
+613,3921 S Pearl Street,Englewood,80113,3.0,1.0,"1,433",400000,"$1,669",$0,N/A,39.64539376,-104.98103912,Englewood 1,Cherrelyn,Englewood,Englewood
+614,670 S Hazel Court,Denver,80219,3.0,1.0,"1,061",399990,"$1,342",$0,N/A,39.70455851,-105.0273658,Denver 1,Munroe,Kepner,West
+615,19623 E Batavia Drive,Aurora,80011,4.0,2.0,"1,644",399900,"$2,556",$0,N/A,39.74238724,-104.75797501,Adams-Arapahoe 28J,Clyde Miller,East,Hinkley
+616,1380 Dallas Street,Aurora,80010,2.0,1.0,796,399900,"$1,883",$0,N/A,39.73787649,-104.87617261,Adams-Arapahoe 28J,Boston K-8,Boston K-8,Aurora Central
+617,6945 Olive Street,Commerce City,80022,3.0,1.0,"1,026",399900,"$1,628",$0,N/A,39.82263687,-104.90828098,Adams 14,Kemp,Kearney,Adams City
+618,20763 E 44th Avenue,Denver,80249,2.0,1.0,801,399000,"$1,841",$0,N/A,39.77800622,-104.7489264,Denver 1,Green Valley,Dr. Martin Luther King,Dr. Martin Luther King
+619,917 Fulton Street,Aurora,80010,4.0,2.0,"1,464",398000,"$1,144",$0,N/A,39.73006648,-104.87035133,Adams-Arapahoe 28J,Fulton,Aurora West,Aurora Central
+620,431 W 8th Avenue,Denver,80204,1.0,1.0,781,395000,"$1,572",$0,N/A,39.72914779,-104.99368564,Denver 1,Dora Moore,Morey,West
+621,1773 Lansing Street,Aurora,80010,2.0,1.0,720,395000,"$2,370",$0,N/A,39.74528704,-104.8573156,Adams-Arapahoe 28J,Crawford,Aurora West,Aurora Central
+622,1175 S Winona Court,Denver,80219,3.0,2.0,"1,130",395000,"$1,711",$0,N/A,39.69580444,-105.04744039,Denver 1,Force,West Leadership,John F. Kennedy
+623,2820 W Park Place,Denver,80219,2.0,1.0,662,395000,"$1,283",$0,N/A,39.71915651,-105.02332183,Denver 1,Barnum,Grant,West
+624,4968 Julian Street,Denver,80221,2.0,1.0,670,394000,"$1,722",$0,N/A,39.78685506,-105.0307709,Denver 1,Beach Court,Skinner,North
+625,7793 Navajo Street,Denver,80221,3.0,2.0,"1,017",392000,"$1,689",$0,N/A,39.83796,-105.00447,Westminster Public Schools,Other,Other,Other
+626,15622 E Colorado Avenue,Aurora,80017,3.0,2.0,904,390000,"$1,856",$0,N/A,39.68431014,-104.80624541,Adams-Arapahoe 28J,Yale,Columbia,Gateway
+627,701 Drake Street,Denver,80221,3.0,1.0,960,390000,"$2,012",$0,N/A,39.83500348,-104.99560365,Westminster Public Schools,Westminster,Ranum,Westminster
+628,7096 E 74th Place,Commerce City,80022,3.0,2.0,"1,176",389950,"$1,390",$0,N/A,39.83202594,-104.90535082,Adams 14,Hanson Prek-8,Kearney,Adams City
+629,440 Lowell Boulevard,Denver,80204,2.0,1.0,"1,028",389000,"$1,612",$0,N/A,39.72366,-105.03476,Denver 1,Newlon,Grant,West
+630,440 Lowell Boulevard,Denver,80204,2.0,1.0,"1,028",389000,"$1,612",$0,N/A,39.72366077,-105.03488802,Denver 1,Newlon,Grant,West
+631,1780 Moline Street,Aurora,80010,3.0,1.0,918,385000,"$2,381",$0,N/A,39.74533697,-104.8536779,Adams-Arapahoe 28J,Montview,North,Aurora Central
+632,1640 Yosemite Street,Denver,80220,3.0,2.0,"1,676",385000,"$2,404",$0,N/A,39.74276821,-104.88431858,Adams-Arapahoe 28J,Crawford,Aurora West,Aurora Central
+633,4341 W Center Avenue Unit C,Denver,80219,4.0,2.0,"1,919",385000,"$1,489",$0,N/A,39.70608561,-105.04489576,Denver 1,Knapp,Grant,West
+634,15734 E Colorado Avenue,Aurora,80017,3.0,1.0,904,385000,"$1,059",$0,N/A,39.68447028,-104.805011,Adams-Arapahoe 28J,Yale,Aurora Hills,Gateway
+635,1538 Alton Street,Aurora,80010,3.0,2.0,"1,268",384995,"$2,383",$0,N/A,39.74103102,-104.88186417,Adams-Arapahoe 28J,Crawford,Aurora West,Aurora Central
+636,1416 Chase Street,Lakewood,80214,2.0,1.0,790,384000,"$1,469",$0,N/A,39.73893927,-105.05626306,Jefferson County R-1,Molholm,Jefferson,Jefferson
+637,5552 Xanadu Street,Denver,80239,3.0,1.0,"1,064",381000,"$1,383",$0,N/A,39.79601027,-104.829601,Denver 1,Lena Archuleta,Strive Montbello,DSST: Stapleton
+638,4652 S Pagosa Circle,Aurora,80015,2.0,1.0,732,379900,"$1,383",$0,N/A,39.6322717,-104.78806729,Cherry Creek 5,Meadow Point,Falcon Creek,Grandview
+639,3484 S Canosa Court,Englewood,80110,3.0,1.0,560,379000,"$1,217",$0,N/A,39.65394309,-105.01904892,Sheridan 2,Sheridan,Sheridan,Sheridan
+640,11000 W 41st Place,Wheat Ridge,80033,4.0,2.0,"2,043",375000,"$2,281",$0,N/A,39.77306505,-105.12164371,Jefferson County R-1,Prospect Valley,Everitt,Wheat Ridge
+641,1355 Benton Street,Lakewood,80214,2.0,1.0,704,375000,"$1,357",$0,N/A,39.7377421,-105.05579317,Jefferson County R-1,Molholm,Jefferson,Jefferson
+642,861 Troy Street,Aurora,80011,3.0,2.0,"1,643",375000,"$1,330",$0,N/A,39.7293997,-104.83775899,Adams-Arapahoe 28J,Vaughn,South,William Smith
+643,1980 Spruce Street,Denver,80220,2.0,2.0,857,375000,"$1,794",$0,N/A,39.74708743,-104.89733736,Denver 1,Ashley,Hill,George Washington
+644,1012 S Zeno Way,Aurora,80017,3.0,2.0,"1,699",370000,"$1,926",$249,Monthly,39.70027624,-104.7725129,Adams-Arapahoe 28J,Murphy Creek K-8,Murphy Creek K-8,Vista Peak
+645,6740 Birch Street,Commerce City,80022,2.0,1.0,786,369900,"$1,387",$0,N/A,39.81877595,-104.9364566,Adams 14,Alsup,Adams City,Adams City
+646,1632 Xanthia Street,Denver,80220,2.0,1.0,820,369000,"$1,812",$0,N/A,39.74263722,-104.88717998,Denver 1,Ashley,Hill,George Washington
+647,220 Del Norte Street,Denver,80221,3.0,1.0,984,368800,"$1,752",$0,N/A,39.83428898,-104.98986836,Mapleton R-1,Global Lead. Acad. K-12,Global Lead. Acad. K-12,Global Lead. Acad. K-12
+648,1665 Lima Street,Aurora,80010,3.0,1.0,"1,488",361000,"$2,621",$0,N/A,39.74319942,-104.85675351,Adams-Arapahoe 28J,Paris,North,Aurora Central
+649,1598 W Alameda Avenue,Denver,80223,2.0,1.0,793,350000,"$1,571",$0,N/A,39.71102567,-105.01081881,Denver 1,Valverde,Compass Academy,West
+650,1594 W Alameda Avenue,Denver,80223,2.0,1.0,721,350000,"$1,466",$0,N/A,39.71107519,-105.01068781,Denver 1,Valverde,Compass Academy,West
+651,6750 E 75th Place,Commerce City,80022,3.0,1.0,768,349999,"$1,750",$0,N/A,39.83394355,-104.91017518,Adams 14,Monaco,Adams City,Adams City
+652,3880 S Bannock Street,Englewood,80110,1.0,1.0,440,349500,"$1,302",$0,N/A,39.64636877,-104.98971083,Englewood 1,Clayton,Englewood,Englewood
+653,3605 S Hooker Street,Englewood,80110,3.0,1.0,816,349000,"$2,189",$0,N/A,39.65076325,-105.02916091,Sheridan 2,Sheridan,Sheridan,Sheridan
+654,783 Galena Street,Aurora,80010,3.0,1.0,"1,294",340000,"$1,323",$0,N/A,39.7278111,-104.86980146,Adams-Arapahoe 28J,Fulton,Aurora West,Aurora Central
+655,1700 Clinton Street,Aurora,80010,3.0,1.0,960,340000,"$2,364",$0,N/A,39.74393035,-104.87729755,Adams-Arapahoe 28J,Crawford,Aurora West,Aurora Central
+656,1520 Tamarac Street,Denver,80220,2.0,1.0,953,340000,"$1,380",$0,N/A,39.74062962,-104.89483981,Denver 1,Ashley,Hill,George Washington
+657,745 Lima Street,Aurora,80010,2.0,1.0,736,339700,"$1,660",$0,N/A,39.72718585,-104.85895081,Adams-Arapahoe 28J,Kenton,Aurora West,Aurora Central
+658,1450 Fenton Street,Lakewood,80214,2.0,1.0,570,329000,"$1,409",$0,N/A,39.73931696,-105.05990579,Jefferson County R-1,Molholm,Jefferson,Jefferson
+659,1241 Elmira Street,Aurora,80010,2.0,1.0,793,325000,"$1,824",$0,N/A,39.73556687,-104.87325255,Adams-Arapahoe 28J,Kenton,Aurora West,Aurora Central
+660,6780 Irving Street,Denver,80221,3.0,2.0,"1,476",325000,"$2,880",$0,N/A,39.81978232,-105.0296096,Westminster Public Schools,Hodgkins,Scott Carpenter,Westminster
+661,4431 Cherokee Street,Denver,80216,1.0,1.0,522,315000,"$1,450",$0,N/A,39.77681994,-104.99098002,Denver 1,Garden Place,Cole Arts And Science Academy,Manual
+662,7121 Jasmine Street,Commerce City,80022,2.0,1.0,768,315000,"$1,383",$0,N/A,39.8261346,-104.91885086,Adams 14,Monaco,Adams City,Adams City
+663,1411 Elmira Street,Aurora,80010,2.0,1.0,771,299900,"$1,664",$0,N/A,39.7385843,-104.87338136,Adams-Arapahoe 28J,Kenton,Aurora West,Aurora Central
+664,10355 E 23rd Avenue,Aurora,80010,3.0,1.0,768,280000,"$2,509",$0,N/A,39.7512231,-104.86726424,Adams-Arapahoe 28J,Fletcher,North,Aurora Central
+665,3464 W Alaska Place,Denver,80219,1.0,1.0,598,270000,$606,$0,N/A,39.70826566,-105.03295641,Denver 1,Munroe,Compass Academy,West
+666,2301 Galena Street,Aurora,80010,2.0,1.0,816,267000,"$2,606",$0,N/A,39.75122444,-104.86960348,Adams-Arapahoe 28J,Fletcher,North,Aurora Central
+668,3173 W Ohio Avenue,Denver,80219,1.0,1.0,794,229000,"$1,285",$0,N/A,39.70243913,-105.02809354,Denver 1,Goldrick,Kepner,Abraham Lincoln
