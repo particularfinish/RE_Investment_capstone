@@ -6,3 +6,4 @@ There are many homes entering the market, and they sell extremely quickly. It's 
 
 This project aims to build a predictive model which will suggest which of the currently available homes would meet an investor's criteria, using the inventory of the individual investor I spoke with, the inventory of one of the largest home-rental companies in the United States, and school demographic data for schools with enrollment based on geographical boundaries.
 
+Please view https://github.com/particularfinish/RE_Investment_capstone/blob/main/Real_Estate_Investment_Prediction_Final_Slides.pdf for the final presentation as pdf. 
